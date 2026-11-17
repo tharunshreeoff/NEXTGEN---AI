@@ -1,5 +1,11 @@
 name: Refresh official AI feeds
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - "data/feeds.json"
+      - "scripts/update_feed.py"
+      - ".github/workflows/refresh-feed.yml"
   schedule:
     # Refresh every three hours; GitHub schedules use UTC.
     - cron: "17 */3 * * *"
