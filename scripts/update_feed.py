@@ -7,7 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 feeds = json.loads((ROOT/"data/feeds.json").read_text(encoding="utf-8"))["sources"]
 items, errors = [], []
 def clean(value):
-    return re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", value or "")).strip()
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", value or "")).strip()
 for feed in feeds:
     try:
         req=urllib.request.Request(feed["url"],headers={"User-Agent":"NEXTGEN-AI-Learning-Hub/1.0"})
