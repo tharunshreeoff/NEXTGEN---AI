@@ -1,10 +1,113 @@
 {
   "sources": [
-    {"name":"Hugging Face Blog","url":"https://huggingface.co/blog/feed.xml"},
-    {"name":"LangChain Blog","url":"https://blog.langchain.com/rss/"},
-    {"name":"Google AI Blog","url":"https://blog.research.google/feeds/posts/default"},
-    {"name":"ArXiv cs.AI","url":"https://export.arxiv.org/rss/cs.AI"},
-    {"name":"ArXiv cs.CL","url":"https://export.arxiv.org/rss/cs.CL"}
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "World",
+      "kind": "news"
+    },
+    {
+      "name": "BBC Top Stories",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "category": "World",
+      "kind": "news"
+    },
+    {
+      "name": "BBC Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "category": "Technology",
+      "kind": "news"
+    },
+    {
+      "name": "BBC Science & Environment",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "category": "Science",
+      "kind": "news"
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "Business",
+      "kind": "news"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "World",
+      "kind": "news"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk/technology/rss",
+      "category": "Technology",
+      "kind": "news"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "category": "Technology",
+      "kind": "news"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "category": "Artificial Intelligence",
+      "kind": "research"
+    },
+    {
+      "name": "LangChain Blog",
+      "url": "https://blog.langchain.com/rss/",
+      "category": "Artificial Intelligence",
+      "kind": "research"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.research.google/feeds/posts/default",
+      "category": "Artificial Intelligence",
+      "kind": "research"
+    },
+    {
+      "name": "ArXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "category": "Research",
+      "kind": "research"
+    },
+    {
+      "name": "ArXiv cs.CL",
+      "url": "https://export.arxiv.org/rss/cs.CL",
+      "category": "Research",
+      "kind": "research"
+    },
+    {
+      "name": "Reddit r/worldnews",
+      "url": "https://www.reddit.com/r/worldnews/.rss",
+      "category": "World",
+      "kind": "reddit"
+    },
+    {
+      "name": "Reddit r/technology",
+      "url": "https://www.reddit.com/r/technology/.rss",
+      "category": "Technology",
+      "kind": "reddit"
+    },
+    {
+      "name": "Reddit r/artificial",
+      "url": "https://www.reddit.com/r/artificial/.rss",
+      "category": "Artificial Intelligence",
+      "kind": "reddit"
+    },
+    {
+      "name": "Reddit r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/.rss",
+      "category": "Artificial Intelligence",
+      "kind": "reddit"
+    },
+    {
+      "name": "Reddit r/science",
+      "url": "https://www.reddit.com/r/science/.rss",
+      "category": "Science",
+      "kind": "reddit"
+    }
   ],
-  "note": "Only official or primary-source feeds are configured. Edit this list as feed endpoints change."
+  "note": "Publisher and research feeds provide source-linked headlines. Reddit feeds provide community discussions and must not be treated as verified reporting. Feed availability and update frequency depend on each publisher and Reddit."
 }
