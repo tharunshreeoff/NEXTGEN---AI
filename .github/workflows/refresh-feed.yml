@@ -36,8 +36,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/daily-feed.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh daily AI feed"
-            git push
+            git commit -m "chore: refresh daily news feed"
+            if git pull --rebase origin main; then
+              git push
+            else
+              git rebase --abort || true
+              echo "A concurrent update changed the feed or main branch. Skipping this refresh commit; the next scheduled run will retry."
+              exit 0
+            fi
           else
             echo "No feed changes."
           fi
