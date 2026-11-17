@@ -1,3 +1,4 @@
+import html
 import json
 import re
 import urllib.request
@@ -14,8 +15,9 @@ def text_of(node):
     if node is None:
         return ""
     value = "".join(node.itertext())
+    value = html.unescape(value)
     value = re.sub(r"<[^>]+>", " ", value)
-    return re.sub(r"\\s+", " ", value).strip()
+    return re.sub(r"\s+", " ", value).strip()
 
 def child_text(entry, names):
     for name in names:
@@ -43,11 +45,11 @@ def parse_date(value):
 for source in sources:
     try:
         headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; NEXTGEN-AI-NewsReader/1.0; +https://github.com/tharunshreeoff/NEXTGEN---AI)",
+            "User-Agent": "Mozilla/5.0 (compatible; NEXTGEN-AI-News/1.1; +https://github.com/tharunshreeoff/NEXTGEN---AI)",
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
         }
         request = urllib.request.Request(source["url"], headers=headers)
-        with urllib.request.urlopen(request, timeout=30) as response:
+        with urllib.request.urlopen(request, timeout=22) as response:
             root = ET.fromstring(response.read())
 
         entries = root.findall(".//item")
@@ -56,11 +58,11 @@ for source in sources:
             entries = root.findall(".//{http://www.w3.org/2005/Atom}entry")
             atom = True
 
-        for entry in entries[:20]:
+        for entry in entries[:12]:
             title = child_text(entry, ["title", "{http://www.w3.org/2005/Atom}title"])
             if atom:
                 link_node = entry.find("{http://www.w3.org/2005/Atom}link")
-                link = (link_node.attrib.get("href", "") if link_node is not None else "")
+                link = link_node.attrib.get("href", "") if link_node is not None else ""
             else:
                 link = child_text(entry, ["link"])
             summary = child_text(entry, [
@@ -77,15 +79,17 @@ for source in sources:
             if title and link:
                 items.append({
                     "title": title[:300],
-                    "summary": summary[:700],
+                    "summary": summary[:650],
                     "url": link,
                     "source": source["name"],
                     "date": parse_date(published),
                     "category": source.get("category", "World"),
+                    "subcategory": source.get("subcategory", ""),
+                    "region": source.get("region", "Global"),
                     "kind": source.get("kind", "news"),
                 })
     except Exception as exc:
-        errors.append({"source": source["name"], "error": str(exc)[:220]})
+        errors.append({"source": source["name"], "error": str(exc)[:180]})
 
 seen, unique = set(), []
 for item in items:
@@ -98,15 +102,15 @@ for item in items:
 unique.sort(key=lambda item: item.get("date") or "", reverse=True)
 payload = {
     "generated_at": datetime.now(timezone.utc).isoformat(),
-    "items": unique[:180],
+    "items": unique[:420],
     "source_count": len(sources),
     "successful_sources": len(sources) - len(errors),
     "source_errors": errors,
-    "disclaimer": "Reddit entries are community discussions, not verified reporting. Always open original sources and independently verify important claims.",
+    "disclaimer": "This is a curated discovery feed, not every event worldwide. Reddit entries are community discussions, not verified reporting. Google News items link to publishers. Verify important claims against original reporting.",
 }
 (ROOT / "data/daily-feed.json").write_text(
     json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
 )
-print(f"Saved {len(unique[:180])} items from {len(sources) - len(errors)}/{len(sources)} feeds.")
+print(f"Saved {len(unique[:420])} stories from {len(sources) - len(errors)}/{len(sources)} responding feeds.")
 if errors:
-    print("Feed errors:", json.dumps(errors, ensure_ascii=False))
+    print("Some feeds did not respond:", json.dumps(errors, ensure_ascii=False))
