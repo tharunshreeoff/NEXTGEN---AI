@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Check out site
         uses: actions/checkout@v4
+      - name: Check website JavaScript syntax
+        run: node scripts/check_site.mjs
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
