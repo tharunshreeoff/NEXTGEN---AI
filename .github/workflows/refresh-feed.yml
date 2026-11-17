@@ -1,8 +1,8 @@
 name: Refresh official AI feeds
 on:
   schedule:
-    # Daily at 12:15 IST (06:45 UTC)
-    - cron: "45 6 * * *"
+    # Refresh every three hours; GitHub schedules use UTC.
+    - cron: "17 */3 * * *"
   workflow_dispatch:
 permissions:
   contents: write
