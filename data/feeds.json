@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {"name":"Hugging Face Blog","url":"https://huggingface.co/blog/feed.xml"},
+    {"name":"LangChain Blog","url":"https://blog.langchain.com/rss/"},
+    {"name":"Google AI Blog","url":"https://blog.research.google/feeds/posts/default"},
+    {"name":"ArXiv cs.AI","url":"https://export.arxiv.org/rss/cs.AI"},
+    {"name":"ArXiv cs.CL","url":"https://export.arxiv.org/rss/cs.CL"}
+  ],
+  "note": "Only official or primary-source feeds are configured. Edit this list as feed endpoints change."
+}
