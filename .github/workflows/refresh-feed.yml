@@ -5,6 +5,7 @@ on:
     paths:
       - "data/feeds.json"
       - "scripts/update_feed.py"
+      - "scripts/check_site.mjs"
       - ".github/workflows/refresh-feed.yml"
   schedule:
     # Refresh every three hours; GitHub schedules use UTC.
