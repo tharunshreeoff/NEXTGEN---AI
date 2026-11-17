@@ -1,48 +1,50 @@
-# NEXTGEN AI — Explore the World, Every Day
+# NEXTGEN AI — World Discovery & Learning Academy
 
-NEXTGEN AI is a gamified daily discovery website for exploring global news, AI and technology, science, business, fashion, watches, gaming, sports, culture and more.
+A multi-page public website for discovering daily world news and learning practical AI skills.
 
-## Explore the news worlds
-- World affairs, India, Asia, Russia & Ukraine, South Korea and politics
-- Technology, Artificial Intelligence, science, space and research
-- Business and markets
-- Fashion and style
-- Watches and horology
-- Gaming, sports and entertainment
-- Health and climate
+## Separate pages
+- `index.html` — Home and destination directory
+- `world-news.html` — World affairs, India, geopolitics and regional news
+- `ai-technology.html` — AI and technology news
+- `science.html` — Science, space, health, climate and research
+- `business.html` — Business and economy
+- `style-watches.html` — Fashion, watches and design
+- `gaming-sports.html` — Gaming, sports and entertainment
+- `learn.html` — Practical AI learning roadmap, seven-day sprint and glossary
 
-## Reader tools
-- Search headlines, summaries, countries, regions and sources.
-- Filter by topic, region and source type.
-- Sort by newest or oldest.
-- Open the original publisher or community discussion.
-- Expand the "Understand this story" prompts to think about evidence, context and impact.
-- Save stories for later.
-- Mark stories as read and earn knowledge XP.
-- Track daily reading missions, explored topics, level and streak. Progress is stored locally in the user's browser.
+Each major section opens a separate page within the same NEXTGEN AI website. Navigation uses page links rather than scrolling to anchors on a long single page.
 
-## Sources
-The feed combines publisher RSS/Atom feeds, research and official blogs, Google News discovery feeds, and selected Reddit communities. Sources include BBC, The Guardian, Al Jazeera, NPR, Times of India, TechCrunch, The Verge, Wired, Hugging Face, Google AI, arXiv, Vogue, Hypebeast, HODINKEE, Worn & Wound, Fratello, IGN, GameSpot and NASA.
+## News experience
+- Search and sort stories.
+- Each page filters the shared daily feed to its own topics.
+- Headlines link to original publishers.
+- Readers can mark stories as read and save stories in local browser storage.
+- News feeds can be incomplete or delayed; source health is displayed where the feed is shown.
+- Reddit items are community discussions, not verified reporting.
 
-Sources can be unavailable, rate-limited or change their feed formats. The website displays a source health count and the refresh workflow records failures. The feed is curated and does not represent every event happening worldwide.
+## Learning Academy
+The Learning Academy contains 12 practical modules:
+1. Python for AI
+2. SQL, data handling and APIs
+3. Machine learning fundamentals
+4. Deep learning
+5. LLMs and tokens
+6. Prompt design and structured output
+7. Embeddings, vector search and RAG
+8. AI agents and tool calling
+9. MCP and agent interoperability
+10. Evaluation, testing and safety
+11. Deployment, monitoring and cloud basics
+12. Portfolio and communication
 
-Reddit posts are community discussions, not verified reporting. Google News feeds are for discovering publisher coverage; open the publisher's article for the original reporting. Always compare reliable sources before sharing important claims.
+It also includes a seven-day starter sprint and a practical glossary. Sprint completion is stored locally in the browser.
 
-## Automatic refresh
-GitHub Actions refreshes the RSS/Atom collection every three hours. The actual update frequency depends on publisher and platform availability.
-
-## Learning features
-- Animated 3D-inspired AI hero
-- Agentic AI workflow teaching simulation
-- Searchable AI glossary
-- Six AI learning paths
-- Seven-day AI learning sprint
-
-## Run locally
-Serve the repository root with a static web server. The news reader loads `data/daily-feed.json`.
-
-## Deployment
-GitHub Pages publishes the `main` branch from the repository root.
+## Shared assets
+- `assets/site.css` — responsive layout and visual design
+- `assets/site.js` — news rendering, saving, reading progress and sprint state
+- `data/daily-feed.json` — latest collected news entries
+- `data/feeds.json` — configured RSS/Atom sources
+- `scripts/update_feed.py` — scheduled feed collector
 
 ## Limitations
-The website aggregates headlines, short feed excerpts and links. It does not reproduce full articles, independently fact-check every report, or generate article-specific verified analysis. The "Understand this story" panel provides general critical-reading prompts, not factual conclusions about the individual story. Gamification progress is local to each browser and is not synchronized across devices.
+This is a curated discovery feed, not a complete record of every event worldwide. Headlines and excerpts link to original sources; the site does not independently fact-check every article or generate article-specific verified analysis. Local browser progress is not synchronised between devices.
