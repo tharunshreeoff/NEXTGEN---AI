@@ -312,14 +312,6 @@
       "subcategory": "India"
     },
     {
-      "name": "Google News · Fashion",
-      "url": "https://news.google.com/rss/search?q=fashion%20industry%20fashion%20week%20designers&hl=en-IN&gl=IN&ceid=IN:en",
-      "category": "Fashion",
-      "kind": "news",
-      "region": "Global",
-      "subcategory": "Fashion"
-    },
-    {
       "name": "Google News · Watches",
       "url": "https://news.google.com/rss/search?q=watch%20industry%20luxury%20watches%20horology&hl=en-IN&gl=IN&ceid=IN:en",
       "category": "Watches",
@@ -334,14 +326,6 @@
       "kind": "news",
       "region": "Global",
       "subcategory": "Gaming"
-    },
-    {
-      "name": "Google News · Space",
-      "url": "https://news.google.com/rss/search?q=space%20NASA%20astronomy%20missions&hl=en-IN&gl=IN&ceid=IN:en",
-      "category": "Space",
-      "kind": "news",
-      "region": "Global",
-      "subcategory": "Space"
     },
     {
       "name": "Google News · Climate",
@@ -366,7 +350,77 @@
       "kind": "news",
       "region": "Global",
       "subcategory": "Markets"
+    },
+    {
+      "name": "Vogue",
+      "url": "https://www.vogue.com/feed/rss",
+      "category": "Fashion",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Hypebeast Fashion",
+      "url": "https://hypebeast.com/fashion/feed",
+      "category": "Fashion",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "HODINKEE",
+      "url": "https://www.hodinkee.com/articles/rss.xml",
+      "category": "Watches",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Worn & Wound",
+      "url": "https://wornandwound.com/feed",
+      "category": "Watches",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Fratello Watches",
+      "url": "https://www.fratellowatches.com/feed",
+      "category": "Watches",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "IGN",
+      "url": "https://www.ign.com/rss/articles/feed",
+      "category": "Gaming",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "GameSpot",
+      "url": "https://www.gamespot.com/feeds/mashup/",
+      "category": "Gaming",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "category": "Technology",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/feed/",
+      "category": "Space",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+      "category": "Sports",
+      "kind": "news",
+      "region": "India"
     }
   ],
-  "note": "A curated multi-source discovery feed, not a complete record of every event. Publisher RSS/Atom headlines link to original publishers. Google News search feeds are discovery links to publisher coverage. Reddit is community discussion, not verified reporting. Availability and update frequency depend on each source."
+  "note": "A curated multi-source discovery feed, not a complete record of every event. Publisher RSS/Atom headlines link to original publishers. Google News search feeds are discovery links to publisher coverage. Reddit is community discussion, not verified reporting. Availability and update frequency depend on each source. Fashion sources include Vogue and Hypebeast; watch coverage includes HODINKEE, Worn & Wound and Fratello; gaming includes IGN and GameSpot; NASA provides space updates."
 }
