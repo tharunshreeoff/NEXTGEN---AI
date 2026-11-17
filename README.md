@@ -1,32 +1,48 @@
-# NEXTGEN AI
+# NEXTGEN AI — Explore the World, Every Day
 
-A public learning and daily discovery hub for understanding AI, technology, science, business and world developments.
+NEXTGEN AI is a gamified daily discovery website for exploring global news, AI and technology, science, business, fashion, watches, gaming, sports, culture and more.
 
-## Daily news reader
-- Search headlines and summaries.
-- Filter by topic: World, Technology, Artificial Intelligence, Science, Business and Research.
-- Filter by source type: news publishers, research/official blogs, and Reddit community discussions.
+## Explore the news worlds
+- World affairs, India, Asia, Russia & Ukraine, South Korea and politics
+- Technology, Artificial Intelligence, science, space and research
+- Business and markets
+- Fashion and style
+- Watches and horology
+- Gaming, sports and entertainment
+- Health and climate
+
+## Reader tools
+- Search headlines, summaries, countries, regions and sources.
+- Filter by topic, region and source type.
 - Sort by newest or oldest.
-- Open every original article or discussion.
-- Use the "Read & learn" panel to ask evidence, context and impact questions.
+- Open the original publisher or community discussion.
+- Expand the "Understand this story" prompts to think about evidence, context and impact.
+- Save stories for later.
+- Mark stories as read and earn knowledge XP.
+- Track daily reading missions, explored topics, level and streak. Progress is stored locally in the user's browser.
 
-## Sources and editorial labels
-The feed combines selected publisher RSS/Atom feeds, official AI/research feeds, and Reddit subreddit feeds. Reddit is labelled as community discussion and is not verified reporting. A Reddit post is a lead for discovery, not proof of a claim. Always open original links and compare independent reporting for important topics.
+## Sources
+The feed combines publisher RSS/Atom feeds, research and official blogs, Google News discovery feeds, and selected Reddit communities. Sources include BBC, The Guardian, Al Jazeera, NPR, Times of India, TechCrunch, The Verge, Wired, Hugging Face, Google AI, arXiv, Vogue, Hypebeast, HODINKEE, Worn & Wound, Fratello, IGN, GameSpot and NASA.
 
-Feeds are refreshed by GitHub Actions every three hours (UTC schedule). Actual update frequency depends on the publisher, Reddit availability and GitHub Actions scheduling. Some sources may occasionally fail or block automated requests; failures are recorded in `data/daily-feed.json`.
+Sources can be unavailable, rate-limited or change their feed formats. The website displays a source health count and the refresh workflow records failures. The feed is curated and does not represent every event happening worldwide.
+
+Reddit posts are community discussions, not verified reporting. Google News feeds are for discovering publisher coverage; open the publisher's article for the original reporting. Always compare reliable sources before sharing important claims.
+
+## Automatic refresh
+GitHub Actions refreshes the RSS/Atom collection every three hours. The actual update frequency depends on publisher and platform availability.
 
 ## Learning features
 - Animated 3D-inspired AI hero
 - Agentic AI workflow teaching simulation
 - Searchable AI glossary
-- Six learning paths
-- Seven-day learning sprint with browser-local progress
+- Six AI learning paths
+- Seven-day AI learning sprint
 
 ## Run locally
-Open `index.html` through a static web server from the repository root. The news reader fetches `data/daily-feed.json`.
+Serve the repository root with a static web server. The news reader loads `data/daily-feed.json`.
 
 ## Deployment
-GitHub Pages is configured to publish the `main` branch from the repository root.
+GitHub Pages publishes the `main` branch from the repository root.
 
-## Important limitations
-The site aggregates headlines, excerpts and original links. It does not independently fact-check reports, generate article-specific AI summaries, or represent every event happening worldwide. The learning prompts are critical-reading guidance, not factual conclusions about an individual story.
+## Limitations
+The website aggregates headlines, short feed excerpts and links. It does not reproduce full articles, independently fact-check every report, or generate article-specific verified analysis. The "Understand this story" panel provides general critical-reading prompts, not factual conclusions about the individual story. Gamification progress is local to each browser and is not synchronized across devices.
