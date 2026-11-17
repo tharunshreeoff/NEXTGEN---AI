@@ -4,110 +4,369 @@
       "name": "BBC World",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "category": "World",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
     },
     {
       "name": "BBC Top Stories",
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
       "category": "World",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "BBC India",
+      "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+      "category": "India",
+      "kind": "news",
+      "region": "India"
+    },
+    {
+      "name": "BBC Asia",
+      "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "category": "Asia",
+      "kind": "news",
+      "region": "Asia"
+    },
+    {
+      "name": "BBC Europe",
+      "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "category": "World",
+      "kind": "news",
+      "region": "Europe"
+    },
+    {
+      "name": "BBC Middle East",
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+      "category": "World",
+      "kind": "news",
+      "region": "Middle East"
     },
     {
       "name": "BBC Technology",
       "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
       "category": "Technology",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
     },
     {
-      "name": "BBC Science & Environment",
+      "name": "BBC Science",
       "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "category": "Science",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
     },
     {
       "name": "BBC Business",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "category": "Business",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "BBC Health",
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "category": "Health",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "BBC Entertainment",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "category": "Entertainment",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "BBC Sport",
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "category": "Sports",
+      "kind": "news",
+      "region": "Global"
     },
     {
       "name": "The Guardian World",
       "url": "https://www.theguardian.com/world/rss",
       "category": "World",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian India",
+      "url": "https://www.theguardian.com/world/india/rss",
+      "category": "India",
+      "kind": "news",
+      "region": "India"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk/business/rss",
+      "category": "Business",
+      "kind": "news",
+      "region": "Global"
     },
     {
       "name": "The Guardian Technology",
       "url": "https://www.theguardian.com/uk/technology/rss",
       "category": "Technology",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian AI",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+      "category": "Artificial Intelligence",
+      "kind": "research",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian Science",
+      "url": "https://www.theguardian.com/science/rss",
+      "category": "Science",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian Fashion",
+      "url": "https://www.theguardian.com/fashion/rss",
+      "category": "Fashion",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian Games",
+      "url": "https://www.theguardian.com/games/rss",
+      "category": "Gaming",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian Sport",
+      "url": "https://www.theguardian.com/uk/sport/rss",
+      "category": "Sports",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian Culture",
+      "url": "https://www.theguardian.com/uk/culture/rss",
+      "category": "Entertainment",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Guardian Climate",
+      "url": "https://www.theguardian.com/environment/climate-crisis/rss",
+      "category": "Climate",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "World",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "category": "World",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Times of India Top Stories",
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "category": "India",
+      "kind": "news",
+      "region": "India"
     },
     {
       "name": "TechCrunch",
       "url": "https://techcrunch.com/feed/",
       "category": "Technology",
-      "kind": "news"
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "category": "Technology",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss",
+      "category": "Technology",
+      "kind": "news",
+      "region": "Global"
     },
     {
       "name": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/feed.xml",
       "category": "Artificial Intelligence",
-      "kind": "research"
-    },
-    {
-      "name": "LangChain Blog",
-      "url": "https://blog.langchain.com/rss/",
-      "category": "Artificial Intelligence",
-      "kind": "research"
+      "kind": "research",
+      "region": "Global"
     },
     {
       "name": "Google AI Blog",
       "url": "https://blog.research.google/feeds/posts/default",
       "category": "Artificial Intelligence",
-      "kind": "research"
+      "kind": "research",
+      "region": "Global"
     },
     {
       "name": "ArXiv cs.AI",
       "url": "https://export.arxiv.org/rss/cs.AI",
       "category": "Research",
-      "kind": "research"
+      "kind": "research",
+      "region": "Global"
     },
     {
       "name": "ArXiv cs.CL",
       "url": "https://export.arxiv.org/rss/cs.CL",
       "category": "Research",
-      "kind": "research"
+      "kind": "research",
+      "region": "Global"
     },
     {
       "name": "Reddit r/worldnews",
       "url": "https://www.reddit.com/r/worldnews/.rss",
       "category": "World",
-      "kind": "reddit"
+      "kind": "reddit",
+      "region": "Global"
     },
     {
       "name": "Reddit r/technology",
       "url": "https://www.reddit.com/r/technology/.rss",
       "category": "Technology",
-      "kind": "reddit"
+      "kind": "reddit",
+      "region": "Global"
     },
     {
       "name": "Reddit r/artificial",
       "url": "https://www.reddit.com/r/artificial/.rss",
       "category": "Artificial Intelligence",
-      "kind": "reddit"
+      "kind": "reddit",
+      "region": "Global"
     },
     {
       "name": "Reddit r/MachineLearning",
       "url": "https://www.reddit.com/r/MachineLearning/.rss",
       "category": "Artificial Intelligence",
-      "kind": "reddit"
+      "kind": "reddit",
+      "region": "Global"
     },
     {
       "name": "Reddit r/science",
       "url": "https://www.reddit.com/r/science/.rss",
       "category": "Science",
-      "kind": "reddit"
+      "kind": "reddit",
+      "region": "Global"
+    },
+    {
+      "name": "Reddit r/gaming",
+      "url": "https://www.reddit.com/r/gaming/.rss",
+      "category": "Gaming",
+      "kind": "reddit",
+      "region": "Global"
+    },
+    {
+      "name": "Reddit r/fashion",
+      "url": "https://www.reddit.com/r/fashion/.rss",
+      "category": "Fashion",
+      "kind": "reddit",
+      "region": "Global"
+    },
+    {
+      "name": "Reddit r/Watches",
+      "url": "https://www.reddit.com/r/Watches/.rss",
+      "category": "Watches",
+      "kind": "reddit",
+      "region": "Global"
+    },
+    {
+      "name": "Google News · Russia & Ukraine",
+      "url": "https://news.google.com/rss/search?q=Russia%20Ukraine%20war%20latest&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Russia & Ukraine",
+      "kind": "news",
+      "region": "Europe",
+      "subcategory": "Russia & Ukraine"
+    },
+    {
+      "name": "Google News · South Korea",
+      "url": "https://news.google.com/rss/search?q=South%20Korea%20latest%20news&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "South Korea",
+      "kind": "news",
+      "region": "Asia",
+      "subcategory": "South Korea"
+    },
+    {
+      "name": "Google News · India",
+      "url": "https://news.google.com/rss/search?q=India%20latest%20news&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "India",
+      "kind": "news",
+      "region": "India",
+      "subcategory": "India"
+    },
+    {
+      "name": "Google News · Fashion",
+      "url": "https://news.google.com/rss/search?q=fashion%20industry%20fashion%20week%20designers&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Fashion",
+      "kind": "news",
+      "region": "Global",
+      "subcategory": "Fashion"
+    },
+    {
+      "name": "Google News · Watches",
+      "url": "https://news.google.com/rss/search?q=watch%20industry%20luxury%20watches%20horology&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Watches",
+      "kind": "news",
+      "region": "Global",
+      "subcategory": "Watches"
+    },
+    {
+      "name": "Google News · Gaming",
+      "url": "https://news.google.com/rss/search?q=video%20game%20industry%20gaming%20releases&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Gaming",
+      "kind": "news",
+      "region": "Global",
+      "subcategory": "Gaming"
+    },
+    {
+      "name": "Google News · Space",
+      "url": "https://news.google.com/rss/search?q=space%20NASA%20astronomy%20missions&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Space",
+      "kind": "news",
+      "region": "Global",
+      "subcategory": "Space"
+    },
+    {
+      "name": "Google News · Climate",
+      "url": "https://news.google.com/rss/search?q=climate%20environment%20energy&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Climate",
+      "kind": "news",
+      "region": "Global",
+      "subcategory": "Climate"
+    },
+    {
+      "name": "Google News · Politics",
+      "url": "https://news.google.com/rss/search?q=world%20politics%20elections%20government&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Politics",
+      "kind": "news",
+      "region": "Global",
+      "subcategory": "Politics"
+    },
+    {
+      "name": "Google News · Markets",
+      "url": "https://news.google.com/rss/search?q=global%20economy%20stock%20markets%20business&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Business",
+      "kind": "news",
+      "region": "Global",
+      "subcategory": "Markets"
     }
   ],
-  "note": "Publisher and research feeds provide source-linked headlines. Reddit feeds provide community discussions and must not be treated as verified reporting. Feed availability and update frequency depend on each publisher and Reddit."
+  "note": "A curated multi-source discovery feed, not a complete record of every event. Publisher RSS/Atom headlines link to original publishers. Google News search feeds are discovery links to publisher coverage. Reddit is community discussion, not verified reporting. Availability and update frequency depend on each source."
 }
