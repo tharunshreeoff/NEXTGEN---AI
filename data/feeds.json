@@ -420,7 +420,63 @@
       "category": "Sports",
       "kind": "news",
       "region": "India"
+    },
+    {
+      "name": "Google News · Marketing Strategy",
+      "url": "https://news.google.com/rss/search?q=marketing%20strategy%20brand%20campaigns&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Marketing",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Google News · Digital Marketing",
+      "url": "https://news.google.com/rss/search?q=digital%20marketing%20SEO%20social%20media%20advertising&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Marketing",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Google News · Marketing Technology",
+      "url": "https://news.google.com/rss/search?q=marketing%20technology%20MarTech%20AI%20advertising&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Marketing",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Google News · Stock Markets",
+      "url": "https://news.google.com/rss/search?q=stock%20market%20shares%20equities%20market%20news&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Stocks",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Google News · Trading & Forex",
+      "url": "https://news.google.com/rss/search?q=trading%20forex%20currency%20markets&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Trading",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Google News · Gold & Commodities",
+      "url": "https://news.google.com/rss/search?q=gold%20crude%20oil%20commodities%20prices&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Commodities",
+      "kind": "news",
+      "region": "Global"
+    },
+    {
+      "name": "Google News · US Markets",
+      "url": "https://news.google.com/rss/search?q=US%20markets%20NYSE%20Nasdaq%20S%26P%20500&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Stocks",
+      "kind": "news",
+      "region": "United States"
+    },
+    {
+      "name": "Google News · Indian Markets",
+      "url": "https://news.google.com/rss/search?q=India%20stock%20market%20Nifty%20Sensex&hl=en-IN&gl=IN&ceid=IN:en",
+      "category": "Stocks",
+      "kind": "news",
+      "region": "India"
     }
   ],
-  "note": "A curated multi-source discovery feed, not a complete record of every event. Publisher RSS/Atom headlines link to original publishers. Google News search feeds are discovery links to publisher coverage. Reddit is community discussion, not verified reporting. Availability and update frequency depend on each source. Fashion sources include Vogue and Hypebeast; watch coverage includes HODINKEE, Worn & Wound and Fratello; gaming includes IGN and GameSpot; NASA provides space updates."
+  "note": "A curated multi-source discovery feed, not a complete record of every event. Publisher RSS/Atom headlines link to original publishers. Google News search feeds are discovery links to publisher coverage. Reddit is community discussion, not verified reporting. Availability and update frequency depend on each source. Fashion sources include Vogue and Hypebeast; watch coverage includes HODINKEE, Worn & Wound and Fratello; gaming includes IGN and GameSpot; NASA provides space updates. Marketing and trading coverage uses dedicated topic feeds; market headlines are news and education, not personalised investment advice."
 }
