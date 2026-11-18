@@ -42,6 +42,28 @@ def parse_date(value):
         dt = dt.replace(tzinfo=timezone.utc)
     return dt.astimezone(timezone.utc).date().isoformat()
 
+def classify_broad_story(source, title, summary):
+    # Broad catch-all publishers can mix technology, business and culture headlines.
+    # Specialist feeds keep their declared category.
+    broad = {"BBC Top Stories", "BBC World", "Al Jazeera English", "NPR News"}
+    if source.get("name") not in broad:
+        return source.get("category", "World")
+    text = (title + " " + summary).lower()
+    rules = [
+        ("Artificial Intelligence", r"\b(ai|artificial intelligence|machine learning|chatgpt|openai|llm|robotics?)\b"),
+        ("Technology", r"\b(technology|tech firms?|cyber|software|smartphone|semiconductor|chipmakers?|data breach)\b"),
+        ("Business", r"\b(stocks?|shares|markets?|earnings|company|companies|business|economy|inflation|trade deal|startup|ipo)\b"),
+        ("Science", r"\b(science|research|space|nasa|climate|environment|health|medical|study|scientists?)\b"),
+        ("Sports", r"\b(sport|football|cricket|tennis|olympics|league|championship|athlete|match)\b"),
+        ("Gaming", r"\b(video game|gaming|esports|playstation|xbox|nintendo)\b"),
+        ("Entertainment", r"\b(film|movie|cinema|television|music|actor|actress|celebrity)\b"),
+        ("Fashion", r"\b(fashion|designer|runway|collection|luxury|watchmaking)\b"),
+    ]
+    for category, pattern in rules:
+        if re.search(pattern, text):
+            return category
+    return source.get("category", "World")
+
 for source in sources:
     try:
         headers = {
@@ -83,7 +105,7 @@ for source in sources:
                     "url": link,
                     "source": source["name"],
                     "date": parse_date(published),
-                    "category": source.get("category", "World"),
+                    "category": classify_broad_story(source, title, summary),
                     "subcategory": source.get("subcategory", ""),
                     "region": source.get("region", "Global"),
                     "kind": source.get("kind", "news"),
