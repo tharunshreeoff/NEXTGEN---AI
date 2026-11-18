@@ -48,3 +48,10 @@ It also includes a seven-day starter sprint and a practical glossary. Sprint com
 
 ## Limitations
 This is a curated discovery feed, not a complete record of every event worldwide. Headlines and excerpts link to original sources; the site does not independently fact-check every article or generate article-specific verified analysis. Local browser progress is not synchronised between devices.
+
+
+## Additional sections
+- `marketing.html` — brand strategy, digital growth, campaign news and marketing analytics.
+- `trading.html` — stocks, US and Indian markets, gold, crude oil, commodities and forex news. Educational content only; not live quotes or investment advice.
+
+The homepage uses an animated sage-glass sphere with orbital rings as the visual identity. Broad general-news feeds are topic-classified where possible; specialist feeds retain their publisher-defined categories.
