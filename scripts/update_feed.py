@@ -46,6 +46,8 @@ def classify_broad_story(source, title, summary):
     # Broad catch-all publishers can mix technology, business and culture headlines.
     # Specialist feeds keep their declared category.
     broad = {"BBC Top Stories", "BBC World", "Al Jazeera English", "NPR News"}
+    if source.get("name") in {"ArXiv cs.AI", "ArXiv cs.CL"}:
+        return "AI Research"
     if source.get("name") not in broad:
         return source.get("category", "World")
     text = (title + " " + summary).lower()
