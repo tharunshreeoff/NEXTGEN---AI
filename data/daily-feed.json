@@ -1,20 +1,405 @@
 {
-  "generated_at": "2026-11-22T19:49:25.980197+00:00",
+  "generated_at": "2026-11-23T01:49:16.731451+00:00",
   "items": [
     {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
       "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "category": "Science",
       "subcategory": "",
       "region": "Global",
       "kind": "news"
     },
     {
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "date": "2026-11-23",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "date": "2026-11-23",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Top Stories",
+      "date": "2026-11-23",
+      "category": "Artificial Intelligence",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+      "summary": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+      "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Top Stories",
+      "date": "2026-11-23",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Top Stories",
+      "date": "2026-11-23",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "date": "2026-11-23",
+      "category": "Technology",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "What is going on with Poundland?",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "date": "2026-11-23",
+      "category": "Business",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+      "summary": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+      "source": "The Guardian Science",
+      "date": "2026-11-23",
+      "category": "Science",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-23",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+      "summary": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-23",
+      "category": "Artificial Intelligence",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+      "summary": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-23",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "US put 1,389 Indian children in custody in 4 years; none repatriated",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/india/illegal-immigration-us-put-1389-indian-children-in-custody-in-4-yrs/articleshow/136082286.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "'Iran sees Democrats as weak': Trump links surge in attacks to US midterm wins",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/iran-sees-democrats-as-weak-trump-links-surge-in-drone-missile-attacks-to-us-midterm-wins/articleshow/136086441.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "Alaska dentist's child support rises from $698 to $3,780 a month; court agrees",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/an-alaska-dentist-reported-36960-in-income-and-was-ordered-to-pay-697-94-a-month-for-four-children-but-judges-found-he-understated-his-earnings-and-raised-support-to-3780-the-states-top-court-upheld-the-increase/articleshow/136067716.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "Tempers flare! Pakistan player gives Harshit Rana a fiery send-off, teammate steps in",
+      "summary": "Harshit Rana engaged in verbal disputes with Pakistan A players during the Asia Cup Rising Stars match. This tension began during Pakistan A's innings and continued after his dismissal. Pakistan's Sufyan Moqim exchanged words with Rana as he left the field. India A ultimately lost the match by 48 runs despite strong performances by Tilak Varma and Abhishek Sharma.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/tempers-flare-pakistan-player-gives-harshit-rana-a-fiery-send-off-teammate-steps-in-watch/articleshow/136086359.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "'I could have finished game': Tilak rues Shahbaz's dismissal after Pakistan defeat",
+      "summary": "Chasing 314, India A were struggling at 129/6 before Tilak and Shahbaz Ahmed added 112 runs for the seventh wicket to keep their hopes alive. However, the partnership was not enough as India A were bowled out for 265.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-could-have-finished-the-game-tilak-varma-rues-shahbazs-dismissal-after-pakistan-loss/articleshow/136086106.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "‘Travelling for Baptism’: Lawyer after ICE detains father-daughter duo at Seattle airport",
+      "summary": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/were-travelling-for-baptism-lawyer-after-ice-detains-father-daughter-duo-at-seattle-airport/articleshow/136086089.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "Tamil Nadu CA student cycles 100km for food deliveries, joins office in 6 months",
+      "summary": "Parthiban Krishnamoorthi's journey to becoming a chartered accountant was fraught with challenges. After failing the CA Intermediate exams twice, he relocated to Bengaluru, where he juggled night shifts packaging orders and cycling for deliveries to make ends meet. His determination paid off as he ultimately passed his exams and joined BDO as an Article Assistant, embodying the spirit of resilience in the face of adversity.",
+      "url": "https://timesofindia.indiatimes.com/life-style/people/a-tamil-nadu-man-packed-grocery-orders-in-freezing-rooms-and-cycled-up-to-100-km-delivering-food-while-studying-for-ca-exams-six-months-later-he-joined-the-bengaluru-office-he-once-looked-at-across-the-road/articleshow/136072191.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-23",
+      "category": "Technology",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "South Korea’s stock market tumbles as AI bubble fears mount - Al Jazeera",
+      "summary": "South Korea’s stock market tumbles as AI bubble fears mount Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
+      "source": "Google News · South Korea",
+      "date": "2026-11-23",
+      "category": "South Korea",
+      "subcategory": "South Korea",
+      "region": "Asia",
+      "kind": "news"
+    },
+    {
+      "title": "South Korea’s Early Exports Gain After $1 Trillion Milestone - Bloomberg.com",
+      "summary": "South Korea’s Early Exports Gain After $1 Trillion Milestone Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0hkTFZkNTVyUlRNQTg1WV9Ycm9tOUN3R3djbmVMR2VONFNCUV82ZFY5QUthWjFGZ2ExRkZlWWxQV2thZGZrbXdWYkJJMmtyZWJaOGUwU21tNEdIN0ItTzQ2SC1tMDc1dUZFcFg0MFNJVjVsZXEwc1JSbHhQUlZ3ekFHdlloMlNQQ29uekdTMVRGVGFlYkNjUU13N0Y1WWRJVzZzcmxoMkt0cWdHYTZj?oc=5",
+      "source": "Google News · South Korea",
+      "date": "2026-11-23",
+      "category": "South Korea",
+      "subcategory": "South Korea",
+      "region": "Asia",
+      "kind": "news"
+    },
+    {
+      "title": "IND vs NZ first Test Day 5: India keeps victory hopes alive, takes two more wickets at lunch - The Hindu",
+      "summary": "IND vs NZ first Test Day 5: India keeps victory hopes alive, takes two more wickets at lunch The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWRMbnRIclEtZTdJT25VQmE0bzlUZ2tlbldscVRjM3BaZVY0eFFHajB0MHdGdXJZaXFLLW9tZ0RWVDloNDc1Y3FIa3FCWUwwNERxd1VQWU1XMlVTWVJGWEtCS0p0d011a1UyUFdxS083Q21JWXlpeUx0NHZRcFZqekRuVlp1R3V3eXVINHVWNEZiUkZiaFlXUlFvN1NRd0RoWnRETy1hWHJfalMyMlRFSmRVUHZyTlh2T2hZNmhB0gHEAUFVX3lxTE4tTkZ2VnhZNkdiUS1qd2NKdGxKOU1TeF9sQlp5UzU3RG9ISnI4YjFYZHhxNkl2Sk0yMm9PbHFtcE81NjlTVWVpa2xPSWxqLXU5V3Jyd1c4TlZHRjhtclZWZmdKQnR2Q05fcXA4WElPR3hySlktV0YxTTlaMTlDZkk3MlVhdnB5Y3g2V25WQ1NQVm5BOFpzZ0djOUkxdVIyWGNESkNCV3ZGM3pNaEtHOGxSX3pKdndQNUhCNGtKdm1uM0ZIMVE?oc=5",
+      "source": "Google News · India",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "India",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "'I could have finished the game': Tilak Varma rues Shahbaz's dismissal after Pakistan loss - The Times of India",
+      "summary": "'I could have finished the game': Tilak Varma rues Shahbaz's dismissal after Pakistan loss The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaEpNX1o3eWQzSzlUOGYta0V1YTkyRl9uTDlBSi1ST1ZoMUFhZ0dOcHhaTTRhUDZDSjBKZmNfTFdMWjRRckx2U3RUdDlKOXRJaXRCZF91TzdBYkQ2dFIwbnZTSlRRSEhPdmlHZ0V4MUhFaWxwWGFMbjduX1FyRkpwSG1NQ3hNaUw2QXJid3prWEJmQ1ZoRDFqU2xnUWhucmJ5WVRzMmpzOU83OF9zelhxSVhCRDFxaDF3b3Npcl9ndE9xVG1HVnJWN3NBRml0UU5ydVBBZUFzLTR6REwxUThyNnhYMmdfamN1RmkxLXZtSkIwTzE2WmlxTk83b1bSAYICQVVfeXFMTTlhWVA3VW5zaU9reFk0TFRCV0F1Um1vVWxxLWMxbF9JNVR5emV1aHhZNmtEUld1ejJUT3k5WF9PSWtvTGVUemV4SHZwZDd4QW0yLWNsSnRCOGlBZ04xVk1WTUtCc0ZtV19XYVBJWHVFUU5Temt5T2tuTGFpUGJjNk9PUFNucEVXNm85S2hYREJjVUJHUUNnLVJUYko2eVpabFhwMGN6dlNfMkJlMW8yaWEtelBTWGRtWXViWVE1MzV5VVBUeEwtUmhrbnI5am5icFJQNkYxbXoxb2MyNU52TWduVlduYVhmYzI1c1VienVNU3BZclNIcGJ0dWUxVFVaTXJn?oc=5",
+      "source": "Google News · India",
+      "date": "2026-11-23",
+      "category": "India",
+      "subcategory": "India",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "The Arena Debuted an Immersive Gaming Experience and Exclusive Merch Capsule at Camp Flog Gnaw",
+      "summary": "Summary Independent studio The Arena made its official debut at Camp Flog Gnaw with a massive interactive installation inspired by legendary SNK video gamesThe physical space featured custom arcade games, a konbini-inspired pop-up, and a specialized fighting ring for attendeesAccompanying the activation was a limited-edition apparel capsule modeled by Tokischa, Atiba Jefferson, and more in a Polaroid-style lookbook Independent entertainment studio The Arena officially made its debut at this year's Camp Flog Gnaw, inviting festivalgoers into a massive immersive experience celebrating iconic SNK video game franchises. Bridging the gap between g",
+      "url": "https://hypebeast.com/2026/11/the-arena-debuted-immersive-gaming-experience-exclusive-merch-capsule-camp-flog-gnaw",
+      "source": "Hypebeast Fashion",
+      "date": "2026-11-23",
+      "category": "Fashion",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Alienware's OLED Gaming Monitors Drop to New Price Lows for Black Friday, Starting From Just $280",
+      "summary": "What good is a powerful gaming PC without a monitor capable of showcasing its glory?",
+      "url": "https://www.ign.com/articles/alienware-black-friday-sale-gaming-monitor-deals-2026",
+      "source": "IGN",
+      "date": "2026-11-23",
+      "category": "Gaming",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Samsung Nintendo Switch 2 MicroSD Express Memory Cards Are on Sale for Black Friday",
+      "summary": "Tested and vetted at IGN.",
+      "url": "https://www.ign.com/articles/samsung-nintendo-switch-2-memory-cards-are-on-sale-for-black-friday",
+      "source": "IGN",
+      "date": "2026-11-23",
+      "category": "Gaming",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "The PlayStation 5 Pro Console Is Going In and Out of Stock at Amazon",
+      "summary": "You'll need a combination of perseverance and luck to score one.",
+      "url": "https://www.ign.com/articles/the-playstation-5-pro-console-is-going-in-and-out-of-stock-at-amazon",
+      "source": "IGN",
+      "date": "2026-11-23",
+      "category": "Gaming",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "The Sonos Black Friday Sale Is Live With Deals on Soundbars, Speakers, and Headphones",
+      "summary": "Also check out Sonos' latest and greatest 2026 product releases.",
+      "url": "https://www.ign.com/articles/sonos-black-friday-sale-2026-and-new-product-releases",
+      "source": "IGN",
+      "date": "2026-11-23",
+      "category": "Gaming",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping Plows Through GTA 6 Hype With $225 Million Opening Weekend",
+      "summary": "The Hunger Games: Sunrise on the Reaping took GTA 6 players off of their couches and into movie theaters with a staggering estimated box office total of $225 million in its opening weekend.",
+      "url": "https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-plows-through-gta-6-hype-with-225-million-opening-weekend",
+      "source": "IGN",
+      "date": "2026-11-23",
+      "category": "Gaming",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "The Newest Apple Watch SE 3 Just Dropped to a New Price Low for Black Friday",
+      "summary": "The least expensive Apple Watch is now even cheaper.",
+      "url": "https://www.ign.com/articles/apple-watch-se-3-deal-november-2026",
+      "source": "IGN",
+      "date": "2026-11-23",
+      "category": "Gaming",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+      "summary": "Indian Stock Market News, Equity Market and Sensex Today in India Equitymaster",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdTdxYUhBdzhRN3l3NGJtWVJmN3JacEJiQXhKb2w5MHpGT2lUWDlIZGVFOTA4MDI0UEg5VGVHVGppY0VRbGVpQUk5X3U1UC02RzNEWmU0TnU1ZFVaTUVsczBpUWJrSUZhczlGTUtKM2JTNkUyQkZDUnRVMDNtS0hsc3lJbTNJMTM0dTBoYlVVMkZieWlMTkFXVU5CRTdDQ3VMbDdaRmNvQkZ1dFM0Z3hscHVKT3dNLUJqbUxETmtsRWg0bUVmc24zZ0FXNVRodERmM2s0ZldqU1pGZEp5NGV1c2hjVEZzMmhXZy0yQmUwbHUtQ0IzbTQ3OWgtZ1pveGxabE5acUVjQ0VZbzZSZVZKaC1CWE96U1RrLV84QmxBUHE?oc=5",
+      "source": "Google News · Stock Markets",
+      "date": "2026-11-23",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff - Bloomberg.com",
+      "summary": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnU4YXhhUmpUTkZ5UTVfZ2dsb2ZIcE5fRk9KSXVoMWVEb3l4SW9RMjc3RWJXMjljX1ZBczd0WGhYVEx0bnJDVVBvVTljeTdXREdqM3NCcXVJT3RYanNQelN2ODdXalhNSGw0bWRULTNWSjA3N24xQVc2OVBuLTkxc3NmV2VRZ0NOVU1xSEVVSGxNRjEyNGpmb1pCNEhPODhtQUpuZ3hPVTBNTXo5S2NwcA?oc=5",
+      "source": "Google News · Stock Markets",
+      "date": "2026-11-23",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Commodity Corner: Crude oil slips on supply concerns; gold rebounds as Fed rate hike bets ease - Moneycontrol.com",
+      "summary": "Commodity Corner: Crude oil slips on supply concerns; gold rebounds as Fed rate hike bets ease Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeWJmZEgxOVpUVEtEMWZZWFV5V1V3dnR4MXdFaW1sN2NfYXgyNFV0TGNqVHBCMnh4d284QTdRYVpLRkJhS181cVpaQ0NfQU5DWm5GdFN0QXd1Q0FjSHF2VTFiTlc1Zm45MUVCZWlhbEd4VWxYNks4cW8zdVpocXFBM09Wb29qWHhubVduT0JFVWhBQ2NwRzNMc05ubURubUJNWk1lajZRaW1YUjZsREtKSVlqQXlnN3REYkhJM1l2Y1B0aExvSEp0NXVUbVJlZ0VaNGtRZDhXWTgwLW94dTc0MXBVaTZkMERWM0swZUlOMml6YTjSAfgBQVVfeXFMTzhya09PVXZOWFFpeUdvanBuTlNUWHpXNVd6bFNTaE4xM1Z6aTFJY1o1aFRzRFJ0cUdIRnZYT1JSNjhGY2Y1amh6c0NOdUl1M1EyYVBUb29qekJidV82SDFzNE1XcmdtYjNUS3gwWnAxMEQ3dTdTbmktWWw3Z2xZdUpsOV84M1VaT2Q5MTNydWlSdkxyckMwMUZVclBNTmNSd2tMczRuOTR4OWVzM2JReFpFNGNvZ3RjSk9IcUZSLWxsbjh2Zm9qNU0yVW52cmNSS0psTTFnM29sVVBrM2tRX1FDR2wxRVpOY3RiaV9ObFBKV2FCYWVQcm8?oc=5",
+      "source": "Google News · Gold & Commodities",
+      "date": "2026-11-23",
+      "category": "Commodities",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap - Bloomberg.com",
+      "summary": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
+      "source": "Google News · US Markets",
+      "date": "2026-11-23",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "United States",
+      "kind": "news"
+    },
+    {
+      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+      "summary": "Indian Stock Market News, Equity Market and Sensex Today in India Equitymaster",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPaE42VzhBSHh3NG00VEhaY0NaUmp5UkFiNXo1RUdTRDNJZGswbFZqVzVRb3p2LWFZVnNJN3hLUjd6THYyNDFIOHNGMGdIem1DeVlPNlJiV1lEZnUyRDBZbnlQZm5DMHZNbTVNSHl5TW5xNUtfa2hiV1JhQWExdTBHbUNBUUljN0M5MkVGTVhEMUpDVGk2eEhxSEIyWXFrSlBBekx1M3VjWE9xMWdUbnh0LXNDbkl6SFQ2S0xURHBfMko5b1N6OUtCVGcxeEJka21pWF82N0Vmbk96UGV4bVlGaVk5WXVPWXdwdVlJTk9HUGc3X2d0dHFuNVRJM29QUXNYNi10bnROc1BIdUd3SEFRVE9KVmVRQmc1VmRFNkpKbFg?oc=5",
+      "source": "Google News · Indian Markets",
+      "date": "2026-11-23",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
       "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
       "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "date": "2026-11-22",
@@ -101,17 +486,6 @@
       "kind": "news"
     },
     {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
@@ -123,10 +497,21 @@
       "kind": "news"
     },
     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Top Stories",
+      "date": "2026-11-22",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Top Stories",
       "date": "2026-11-22",
       "category": "World",
       "subcategory": "",
@@ -145,64 +530,9 @@
       "kind": "news"
     },
     {
-      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
-      "summary": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
-      "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Top Stories",
-      "date": "2026-11-22",
-      "category": "Artificial Intelligence",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "Russell Brand's wife says she'll honour prison rules after message row",
       "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
       "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Top Stories",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "BBC apologises after noise disruption during Strictly",
-      "summary": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
-      "url": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Top Stories",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "How a teen gamer and his mother helped rescue a missing girl",
-      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Top Stories",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
-      "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Top Stories",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
-      "summary": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Top Stories",
       "date": "2026-11-22",
       "category": "World",
@@ -321,9 +651,42 @@
       "kind": "news"
     },
     {
-      "title": "The red card that changed Liverpool-Man Utd: correct call?",
-      "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Price wins Grand Slam to end wait for major title",
+      "summary": "Gerwyn Price ends his four-year wait for a major PDC title as he powers to a brilliant 16-11 victory over Gian van Veen in the Grand Slam of Darts final.",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cklye10j4z1yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -343,9 +706,31 @@
       "kind": "news"
     },
     {
-      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-      "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+      "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+      "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "The red card that changed Liverpool-Man Utd: correct call?",
+      "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -365,9 +750,9 @@
       "kind": "news"
     },
     {
-      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-      "summary": "Max Verstappen was the star figure in a Las Vegas Grand Prix that was unlike any F1 race anyone younger than about 70 had ever seen.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+      "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -376,9 +761,9 @@
       "kind": "news"
     },
     {
-      "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-      "summary": "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+      "title": "Man Utd plotting Toney move - Monday's gossip",
+      "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -387,9 +772,9 @@
       "kind": "news"
     },
     {
-      "title": "England will not get carried away by beating All Blacks",
-      "summary": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss",
+      "title": "Thitikul wins third title in a row at LPGA finale",
+      "summary": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ckjwjvwexd12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -398,63 +783,8 @@
       "kind": "news"
     },
     {
-      "title": "Did beaten Wales still show they have come a long way?",
-      "summary": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Liu Wenwei suspended amid match-fixing investigation",
-      "summary": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing.",
-      "url": "https://www.bbc.co.uk/sport/snooker/articles/c9p83k06160xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Marquez wins record-equalling eighth MotoGP title",
-      "summary": "Marc Marquez secures a record-equalling eighth MotoGP championship and moves level with Giacomo Agostini.",
-      "url": "https://www.bbc.co.uk/sport/motorsport/articles/c64gnrdzq8zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Injured Jacks out of T20 Australia tour",
-      "summary": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Spurs 'a match for anyone' as European hopes boosted",
-      "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Benghazi, Libyan officials have said. The strike severely damaged the Merkury, a Russian navy warship, and ignited a fire at the naval base, they said. Several Ukrainian sea drones were launched at the ship from a base run by Ukrainian forces in western Libya, according to an initial investigation into the attack. At least four drones were intercepted and destroyed, while two hit the warship, the officials told ",
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel. The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
       "source": "The Guardian World",
       "date": "2026-11-22",
@@ -640,6 +970,17 @@
       "kind": "news"
     },
     {
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given t",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "source": "The Guardian Technology",
+      "date": "2026-11-22",
+      "category": "Technology",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
       "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
       "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
@@ -662,17 +1003,6 @@
       "kind": "news"
     },
     {
-      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, dr",
-      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-      "source": "The Guardian Technology",
-      "date": "2026-11-22",
-      "category": "Technology",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "I covered myself in sleep trackers to find the very best",
       "summary": "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds The best sleep masks and best Bluetooth sleep masks Getting quality sleep is just as crucial as getting enough sleep. And how you feel in the morning only tells part of the story. Smartwatches, smart bands, smart rings and sleep earbuds can all help fill in the details: how long it took you to doze off, how long you spent in deep sleep, how restless you were, your resting heart rate, even if you have night-time breathing difficulties. Armed with this information, you can learn how your lifestyle affects your sleep. Maybe your ",
       "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
@@ -682,17 +1012,6 @@
       "subcategory": "",
       "region": "Global",
       "kind": "news"
-    },
-    {
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given t",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "source": "The Guardian AI",
-      "date": "2026-11-22",
-      "category": "Artificial Intelligence",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "research"
     },
     {
       "title": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
@@ -728,6 +1047,17 @@
       "kind": "research"
     },
     {
+      "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, dr",
+      "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "source": "The Guardian AI",
+      "date": "2026-11-22",
+      "category": "Artificial Intelligence",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "research"
+    },
+    {
       "title": "CEO of funding agency for UK science and research criticised by union over cuts",
       "summary": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
       "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
@@ -750,31 +1080,9 @@
       "kind": "news"
     },
     {
-      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-      "summary": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino’s debut descended into an ordeal after merely eight minutes when Leny Yoro was sent off for denying Alexander Isak a clear goalscoring opportunity. Liverpool would not be denied anything else. Andoni Iraola indulged in his first fist-pumps towards the Kop after a comfortable, utterly dominant win peppered by Rio Ngumoha and Florian Wirtz brilliance plus goals from Dominik Szoboszlai, Victor Muñoz and the two creative forces. “Poch is at the wheel",
-      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-      "source": "The Guardian Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Carlos Alcaraz beats Alexander Zverev to seal ATP finals glory – live",
-      "summary": "Updates as top two seeds battle for trophy Mail Daniel | Men’s $350m prize money boost On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going to happen? I thought you’d never ask. I’m going for Alcaraz in two, 7-6 6-4. Continue reading...",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
-      "source": "The Guardian Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "NFL week 11: Dolphins v Bills, Buccaneers v Lions, Saints v Bears, and more – live",
-      "summary": "Updates from the 6pm GMT (1pm ET) matchups Follow us on TikTok | And you can email Graham TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Continue reading...",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
+      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "summary": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffering the joint-heaviest debut defeat in the club’s history. Liverpool’s emphatic 4-0 win ensured Pochettino equalled Lal Hilditch’s unwanted record from 1926 of losing his first United game by such a scoreline. United’s 34 goals conceded across all competitions this season are the most by any team in European football’s top five leagues. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
       "source": "The Guardian Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -794,9 +1102,42 @@
       "kind": "news"
     },
     {
+      "title": "Alcaraz puts Zverev in shade as world’s best beats No 1 for first ATP Finals title",
+      "summary": "Spaniard wins final 6-2, 7-6 (7) against new world No 1 Alcaraz the fourth to win career grand slam and ATP Finals The titles of ATP world No 1 and the best male tennis player in the world are carried by two different names. This has always been clear throughout this messy, injury-ravaged men’s season but it was underlined in the grand finale as Carlos Alcaraz ended his campaign with a statement victory, defeating the top-ranked player, Alexander Zverev, 6-2, 7-6 (7) to win the ATP Finals for the first time. So much of Alcaraz’s fortunes this season were defined by the wrist injury that forced him out for four and a half months during the spr",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis",
+      "source": "The Guardian Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
       "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
-      "summary": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. They are still second in the table. How they left Hull without even a solitary point almost defies belief given the dominance they enjoyed for large parts of the contest. But for all along with the statement victories and the headline-grabbing moments , these games are the ones which can trip you up t",
+      "summary": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. They are still second in the table. How they left Hull without even a point almost defies belief given the dominance they enjoyed for large parts of the contest. But for all the statement victories and the headline-grabbing moments , these games are the ones which can trip you up the most. Continue re",
       "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
+      "source": "The Guardian Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Steve Borthwick hits rewind button to inspire England’s flying starts",
+      "summary": "The head coach said he has watched videos from Eddie Jones’ time in charge to help England begin matches strongly Ellis Genge was so fired up by England’s powerful response to the haka on Saturday he stripped off his anthem jacket in the aftermath, completely forgetting he was not starting. Ollie Chessum told Lewis Moody, who had been invited to stand at the point of England’s V formation: “We are going long left, stay on the field and chase the kick-off.” And according to Ben Earl, who would still be out on the Twickenham turf carrying through traffic if he could, some players were so inspired by Moody’s speech the night before they could no",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/steve-borthwick-england-new-zealand-nations-championship-fast-start",
+      "source": "The Guardian Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Gerwyn Price ends barren run with Grand Slam of Darts win: ‘Now they can stop talking’",
+      "summary": "Price beats Gian van Veen 16-11 to secure title Welshman lost ‘so many finals’ in four years of pain Gerwyn Price finally ended his major trophy drought by winning the Grand Slam of Darts and is delighted to silence his critics. The Welshman had not won a major televised event since 2022 and may have thought it might not happen again after losing three finals this year alone. But with Luke Littler and Luke Humphries exiting early, Price took his chance with a brilliant 16-11 win over Gian van Veen in Wolverhampton. Price claimed Grand Slam glory for the fourth time, but this one will surely mean the most to him. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/gerwyn-price-ends-barren-run-with-grand-slam-victory-in-wolverhampton",
       "source": "The Guardian Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -816,20 +1157,9 @@
       "kind": "news"
     },
     {
-      "title": "‘Great coach, terrible streamer’ – Erasmus gets thumbs-down for his weird watchalong",
-      "summary": "In a hotel conference room, South Africa’s banned coach divides opinion with his Trumpian utterings while watching his team get beaten by Ireland Watchwithrassie.com had been the surprise internet sensation of the week. Logging on a few hours before South Africa kicked off against Ireland on Saturday, one thing was immediately clear. When it came to rugby’s latest scandal – “RassieGate 3.0” as Bryan Habana called it – this was not a place for balanced debate. Rassie Erasmus’s “match-fixing” rant , in the aftermath of the Springboks’ defeat by France in Paris, had caused a depressingly familiar furore and earned him a six-match World Rugby ban",
-      "url": "https://www.theguardian.com/sport/2026/nov/22/rassie-erasmus-weird-watchalong-south-africa-rugby-union",
-      "source": "The Guardian Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
-      "summary": "This most unpredictable and evenly contested Women’s Super League campaign took another unexpected twist as Manchester City missed the chance to return to the top of the table as they suffered a second successive defeat, by virtue of a terrific performance from a Tottenham side who moved within three points of the European places. The shock result came just 24 hours after City’s title rivals Chelsea had dropped points at Liverpool. It was the first time City had failed to win a home league match during Andrée Jeglertz’s 16 months in charge, let alone lose. Continue reading...",
-      "url": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
+      "title": "NFL roundup: Chiefs, Lions and Bills march on; Metcalf ejected for eye poke in Steelers loss",
+      "summary": "Bears also continue strong start to season Ravens go down to sixth-straight loss Greg Rousseau had two sacks, including his team-leading 10th of the season, and Buffalo’s defense bailed out the Bills’ sputtering Josh Allen-led offense in a win over the injury-depleted division rival Miami Dolphins (1-9). Allen was limited to a four-yard touchdown pass to DJ Moore with two interceptions in an outing during which Buffalo settled for three field goals on five drives inside Miami’s 20. James Cook scored on a one-yard run for Buffalo (9-1) and had 89 yards rushing to become the NFL’s second player to score a TD and top 75 yards rushing in nine con",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/nfl-roundup-sunday-football-scores",
       "source": "The Guardian Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -849,9 +1179,20 @@
       "kind": "news"
     },
     {
-      "title": "Steve Borthwick hits rewind button to inspire England’s flying starts",
-      "summary": "The head coach said he has watched videos from Eddie Jones’ time in charge to help England start matches strongly Ellis Genge was so fired up by England’s powerful response to the haka on Saturday he stripped off his anthem jacket in the aftermath, completely forgetting he was not starting. Ollie Chessum told Lewis Moody, who had been invited to stand at the point of England’s V formation, “we are going long left, stay on the field and chase the kick-off”. And according to Ben Earl, who would still be out on the Twickenham turf carrying through traffic if he could, some players were so inspired by Moody’s speech the night before they could no",
-      "url": "https://www.theguardian.com/sport/2026/nov/22/steve-borthwick-england-new-zealand-nations-championship-fast-start",
+      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "source": "The Guardian Sport",
+      "date": "2026-11-22",
+      "category": "Sports",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "‘Great coach, terrible streamer’ – Erasmus gets thumbs-down for his weird watchalong",
+      "summary": "In a hotel conference room, South Africa’s banned coach divides opinion with his Trumpian utterings while watching his team get beaten by Ireland Watchwithrassie.com had been the surprise internet sensation of the week. Logging on a few hours before South Africa kicked off against Ireland on Saturday, one thing was immediately clear. When it came to rugby’s latest scandal – “RassieGate 3.0” as Bryan Habana called it – this was not a place for balanced debate. Rassie Erasmus’s “match-fixing” rant , in the aftermath of the Springboks’ defeat by France in Paris, had caused a depressingly familiar furore and earned him a six-match World Rugby ban",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/rassie-erasmus-weird-watchalong-south-africa-rugby-union",
       "source": "The Guardian Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -863,17 +1204,6 @@
       "title": "England aim to avoid Gold Coast traps as Will Jacks heads home with injury",
       "summary": "Harry Brook’s T20 side to play at ground famous in Ashes folklore after setback against below-strength Australia As England’s cricketers arrived on the Gold Coast on Sunday at the start of schoolies week, it was hard not to wonder whether, a year on from their notorious break in Noosa during the Ashes , this was some kind of trap. Schoolies, for the uninitiated, is when hordes of high school graduates kick back at the end of the academic year: one final week of revelry before going their separate ways. To give a flavour, one of the first things your correspondent saw on arrival was a young man on a Lime bike, shirtless, holding an inflatable ",
       "url": "https://www.theguardian.com/sport/2026/nov/22/england-australia-cricket-t20-gold-coast-will-jacks",
-      "source": "The Guardian Sport",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
-      "summary": "Former defender reflects on his record-breaking longevity, kicking Eden Hazard in training, and life after retirement César Azpilicueta looks well. César Azpilicueta always looks well – “ah, Captain Handsome,” one Chelsea fan says when told who’s turning up – but today especially, smiling in the sunshine. Strolling in, he eases into an easier chair, golf course spreading out beyond the terrace, west of Madrid, and orders a detox almost as green. It is nearly 20 years since he played his first game and a few months since he played his last, training kit replaced by bermudas, loafers and a polo, a picture of relaxation. So what’s it like not be",
-      "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
       "source": "The Guardian Sport",
       "date": "2026-11-22",
       "category": "Sports",
@@ -1014,9 +1344,9 @@
       "kind": "news"
     },
     {
-      "title": "On China, is Trump bucking the US national security establishment?",
-      "summary": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+      "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+      "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
       "source": "Al Jazeera English",
       "date": "2026-11-22",
       "category": "World",
@@ -1025,9 +1355,9 @@
       "kind": "news"
     },
     {
-      "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-      "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+      "title": "Mystery of the red stream in Turkiye",
+      "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
       "source": "Al Jazeera English",
       "date": "2026-11-22",
       "category": "World",
@@ -1036,9 +1366,9 @@
       "kind": "news"
     },
     {
-      "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
-      "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+      "title": "Lion on the loose in Turkiye sparks fear among residents",
+      "summary": "Lion on the loose in Turkiye sparks fear among residents",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
       "source": "Al Jazeera English",
       "date": "2026-11-22",
       "category": "World",
@@ -1047,9 +1377,64 @@
       "kind": "news"
     },
     {
-      "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
-      "summary": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
-      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-22",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Trump to host private dinner for largest owners of his meme coin",
+      "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-22",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+      "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-22",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
+      "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-22",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+      "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+      "source": "Al Jazeera English",
+      "date": "2026-11-22",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+      "summary": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
       "source": "Al Jazeera English",
       "date": "2026-11-22",
       "category": "Sports",
@@ -1058,32 +1443,10 @@
       "kind": "news"
     },
     {
-      "title": "Civilians killed in RSF drone strikes in Sudan",
-      "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-      "summary": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "UN climate talks collapse without a deal",
-      "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
-      "source": "Al Jazeera English",
+      "title": "What it's like at a climate conference as talks collapse",
+      "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+      "source": "NPR News",
       "date": "2026-11-22",
       "category": "Science",
       "subcategory": "",
@@ -1091,54 +1454,10 @@
       "kind": "news"
     },
     {
-      "title": "Cox’s Bazar: Rohingya Life in Exile",
-      "summary": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
-      "summary": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "date": "2026-11-22",
-      "category": "Science",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-      "summary": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "date": "2026-11-22",
-      "category": "Sports",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-      "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-      "source": "Al Jazeera English",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-      "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-      "source": "Al Jazeera English",
+      "title": "Philly festival-goers say pickles are a real big dill",
+      "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+      "source": "NPR News",
       "date": "2026-11-22",
       "category": "World",
       "subcategory": "",
@@ -1190,17 +1509,6 @@
       "kind": "news"
     },
     {
-      "title": "NPR's Senior Podcast Challenge: Early entries we love",
-      "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-      "source": "NPR News",
-      "date": "2026-11-22",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "He expected a small-business loan. He got a 7-year nightmare",
       "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
       "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
@@ -1212,9 +1520,20 @@
       "kind": "news"
     },
     {
-      "title": "Male heir obsession: How patriarchy and superstition fuel crimes",
-      "summary": "Across various regions in India, a shocking surge in violence and abuse emerges as families desperately seek male children. This crisis has led to tragic instances of human sacrifice and sexual abuse, fueled by entrenched patriarchal views and superstition. Unscrupulous occult practitioners prey on these families, offering grim solutions in exchange for male heirs.",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/male-heir-obsession-how-patriarchy-and-superstition-fuel-crimes/articleshow/136070725.cms",
+      "title": "NPR's Senior Podcast Challenge: Early entries we love",
+      "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+      "source": "NPR News",
+      "date": "2026-11-22",
+      "category": "World",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Watch: Russian warship bursts into flames amid suspected Ukraine drone attack in Libya",
+      "summary": "A suspected Ukrainian sea drone attack targeted a Russian warship at the Benghazi port, causing significant damage. Reports indicate that two drones successfully struck the corvette Merkury while it was docked to refuel. Libyan officials confirmed the incident and conducted an investigation into the attack's origin. Additionally, another drone attack occurred on a Malta-flagged commercial vessel off the coast.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-russian-warship-hit-by-suspected-ukrainian-drones-at-benghazi-naval-base-bursts-into-flames/articleshow/136085577.cms",
       "source": "Times of India Top Stories",
       "date": "2026-11-22",
       "category": "India",
@@ -1223,9 +1542,20 @@
       "kind": "news"
     },
     {
-      "title": "The new brain drain: China makes AI brains, America buys them, India loses them",
+      "title": "Go public or stay private: Tata Sons gears up for decision this week",
+      "summary": "Board split on RBI prod for listing",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/go-public-or-stay-private-tata-sons-gears-up-for-decision-this-week/articleshow/136083498.cms",
+      "source": "Times of India Top Stories",
+      "date": "2026-11-22",
+      "category": "India",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "Cop31: First time since 2009, climate meet fails to reach consensus",
       "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/the-ai-talent-war-china-is-the-factory-america-the-magnet-india-an-also-ran/articleshow/136078837.cms",
+      "url": "https://timesofindia.indiatimes.com/india/cop31-ends-without-climate-pact-as-countries-fail-to-reach-consensus-over-fossil-fuel-omission-and-empty-finance-promises/articleshow/136079511.cms",
       "source": "Times of India Top Stories",
       "date": "2026-11-22",
       "category": "India",
@@ -1234,9 +1564,9 @@
       "kind": "news"
     },
     {
-      "title": "2 Army soldiers killed after tank runs over them during training exercise in Haryana",
-      "summary": "Two Indian Army soldiers were killed after being accidentally run over by a tank during a military training exercise in Bhojraj village of Haryana's Hisar district, Investigating Officer Ashok Kundu said on Sunday.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/2-army-soldiers-killed-after-tank-runs-over-them-during-training-exercise-in-haryanas-hisar/articleshow/136080057.cms",
+      "title": "Welsh glamping owner loses driveway row over missing map letter; £135k bill",
+      "summary": "Carol Esteban, owner of a glamping site, is grappling with a hefty £135,000 legal bill stemming from a contentious boundary dispute with neighbors Neil and Nadine Gould. The court has granted the Goulds a right of way to their parking area, dismissing Esteban's claims. Currently, her legal team is appealing this decision, as the ruling's implications may significantly impact both the right of way and her financial obligations.",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-missing-letter-on-a-1964-welsh-map-sparked-a-driveway-row-after-a-glampsite-owner-tried-to-stop-neighbours-parking-in-their-own-garden-she-lost-faced-135000-in-costs-and-is-now-appealing/articleshow/136051786.cms",
       "source": "Times of India Top Stories",
       "date": "2026-11-22",
       "category": "India",
@@ -1245,91 +1575,36 @@
       "kind": "news"
     },
     {
-      "title": "Hyderabad on alert after email threatens to avenge terrorist Lateef Bhat's killing",
-      "summary": "In response to a concerning threat email about a potential terror attack, Hyderabad police have stepped up security measures. The email, attributed to a group claiming vengeance for a terrorist's death, specifically named targets such as Hotel Tourist Plaza and Kachiguda railway station. While thorough searches have revealed no explosives, officials are diligently tracing the threat's origins and urging the public to remain alert.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-police-step-up-security-after-email-threatens-26/11-style-terror-attack-at-hotel-railway-station/articleshow/136080025.cms",
-      "source": "Times of India Top Stories",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TechCrunch",
       "date": "2026-11-22",
-      "category": "India",
+      "category": "Technology",
       "subcategory": "",
-      "region": "India",
+      "region": "Global",
       "kind": "news"
     },
     {
-      "title": "Tilak’s knock in vain as Pakistan A beat India A in Asia Cup Rising Stars thriller",
-      "summary": "Tilak Varma’s fighting century (100 off 149 balls) and Shahbaz Ahmed’s 56 could not prevent India A from falling 48 runs short of Pakistan A’s 314-run target. Abhishek Sharma earlier smashed 70 off 42 balls, but Pakistan’s bowlers kept striking at regular intervals. Hasan Nawaz starred with 79 runs and three wickets, while Ali Raza also claimed three scalps.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/captain-tilak-varmas-knock-in-vain-as-pakistan-a-beat-india-a-in-asia-cup-rising-stars-thriller/articleshow/136082154.cms",
-      "source": "Times of India Top Stories",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
       "date": "2026-11-22",
-      "category": "India",
+      "category": "Technology",
       "subcategory": "",
-      "region": "India",
+      "region": "Global",
       "kind": "news"
     },
     {
-      "title": "UK, Netherlands push for 'lasting peace' in Ukraine, vow to keep pressure on Putin",
-      "summary": "British Prime Minister Andy Burnham and Dutch Prime Minister Rob Jetten met to pledge continued support for Ukraine. They highlighted the importance of maintaining pressure on Russia to encourage negotiations. Ukrainian President Volodymyr Zelenskyy reiterated that NATO membership is crucial for Ukraine’s security guarantee. Zelenskyy also discussed the need for clear commitments regarding any proposed security arrangements. Additionally, he expressed gratitude to Melania Trump for facilitating evacuations in conflict-affected areas.",
-      "url": "https://timesofindia.indiatimes.com/world/europe/uk-netherlands-push-for-lasting-peace-in-ukraine-vow-to-keep-pressure-on-putin/articleshow/136080920.cms",
-      "source": "Times of India Top Stories",
+      "title": "The best apps to make new friends right now",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "source": "TechCrunch",
       "date": "2026-11-22",
-      "category": "India",
+      "category": "Technology",
       "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Texas family feud over ranches, yacht and millions; court limits asset freeze",
-      "summary": "A high-stakes inheritance battle in Texas involves Lonnie K. Ledbetter Jr.'s significant estate, featuring sprawling ranches and luxury cars. Following the Texas Second Court of Appeals ruling, assets have been temporarily frozen, impacting his wife, Tawni Ledbetter. Disputes continue over Lonnie's mental capacity during key document signings, while some assets await judicial clarification. A court-appointed receiver will oversee daily expenses and management as the case progresses.",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-texas-inheritance-battle-over-family-ranches-bank-accounts-a-yacht-and-luxury-vehicles-led-to-a-court-freeze-backed-by-a-1-million-bond-appeals-judges-have-narrowed-how-broadly-it-can-apply/articleshow/136038521.cms",
-      "source": "Times of India Top Stories",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "'We do need answers': Trump aide Bessent on Nvidia's sale of chips to China",
-      "summary": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/we-do-need-answers-trump-aide-bessent-on-nvidias-sale-of-chips-to-china/articleshow/136080639.cms",
-      "source": "Times of India Top Stories",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "YS Sharmila, mother stopped by Bengaluru Police from approaching 'family bungalow'",
-      "summary": "High drama occurred on Bagaluru Main Road when YS Sharmila attempted to reach her family bungalow. Police intervened after receiving credible information about her intentions to enter the property. A court order currently restricts her access to the bungalow, raising security concerns. She was redirected away from her route to a five-star hotel to avoid the area.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/ys-sharmila-mother-stopped-by-bengaluru-police-from-approaching-family-bungalow/articleshow/136078866.cms",
-      "source": "Times of India Top Stories",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "San Francisco mansion resells at $24m just 5 months after $21m deal and makeover",
-      "summary": "A five-bedroom mansion in Presidio Heights sold for $24 million after a previous purchase of $21 million. The property was originally listed in June and returned to the market in November at $19.9 million. It was sold within three days of being re-listed due to high demand for luxury homes. The house spans 8,000 square feet and features extensive renovations while preserving its original craftsmanship.",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/a-san-francisco-mansion-sold-for-21-million-in-june-2026-just-five-months-later-the-same-five-bedroom-presidio-heights-property-has-sold-again-for-24-million-after-a-minor-makeover/articleshow/136034578.cms",
-      "source": "Times of India Top Stories",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Psychology says kids who ask 'Do you like my drawing?' may need more than praise",
-      "summary": "Children frequently turn to their drawings as a way to capture parental attention, using art as a unique communication tool. This form of expression not only allows them to share their emotions but also strengthens their bond with parents. Studies indicate that engaged parental support can significantly nurture a child's drawing abilities.",
-      "url": "https://timesofindia.indiatimes.com/life-style/parenting/toddler-year-and-beyond/if-your-child-keeps-asking-do-you-like-my-drawing-every-time-they-create-something-psychology-says-there-may-be-a-deeper-emotional-reason-behind-it/articleshow/136070409.cms",
-      "source": "Times of India Top Stories",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "",
-      "region": "India",
+      "region": "Global",
       "kind": "news"
     },
     {
@@ -1359,6 +1634,17 @@
       "summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
       "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
       "source": "TechCrunch",
+      "date": "2026-11-22",
+      "category": "Technology",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
       "date": "2026-11-22",
       "category": "Technology",
       "subcategory": "",
@@ -1457,17 +1743,6 @@
       "title": "Your questions about Apple HomeView’s audio, answered",
       "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way. Here […]",
       "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-      "source": "The Verge",
-      "date": "2026-11-22",
-      "category": "Technology",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
       "source": "The Verge",
       "date": "2026-11-22",
       "category": "Technology",
@@ -1575,17 +1850,6 @@
       "kind": "news"
     },
     {
-      "title": "South Korea education minister resigns over exam cheating scandal - BBC",
-      "summary": "South Korea education minister resigns over exam cheating scandal BBC South Korean minister quits after AI cheating scandal engulfs university exams The Guardian South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules The New York Times South Korea Education Minister resigns amid AI cheating scandal The Hindu South Korea education chief resigns amid AI cheating scandal CNA South Korean education minister offers to resign over AI cheating controversy Saudi Gazette South Korea catches 111 students with new measures against exam cheating BBC Miniature camera, exam fraud and public fury: South Korea education chief resigns after ch",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVEg2UGN4N0ZwMVN0UGZLbUwxTnNiY1RsS010dkxVblNQeEFhWUotR1QzRUM4dUszQ1g4bzNzSnhfLTdYZEQyeXlSSDdMdi1EVk5PU1lSa0RaNUU?oc=5",
-      "source": "Google News · South Korea",
-      "date": "2026-11-22",
-      "category": "South Korea",
-      "subcategory": "South Korea",
-      "region": "Asia",
-      "kind": "news"
-    },
-    {
       "title": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets - Bloomberg.com",
       "summary": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVRMcEsxcVVCNE9DVnI3U3hWT040d25KN0lPMUY5eEtTb2pWZmU4ZVFsYVoyWHNBc2t5UmhzbHNJXzVoMUpnTm5VOVRIbE1reEc2M0NWSmNwUmFaQURMOGEydnUzUzJaeS1HQVEwMjNmTkFVLTgtTnk1ekx1dFNaTVVWV1MzV3dRajhYcUpxdkoySkZHbkdyb3h3V29tYkNHcXFUUlFIclRTb0pUSnlPSWJ3aGQ?oc=5",
@@ -1597,9 +1861,9 @@
       "kind": "news"
     },
     {
-      "title": "South Korea's education minister Choi Kyo-jin resigned after an AI cheating scandal sparked fears over the fairness of the country's crucial college entrance exam. #dwnews - Facebook",
-      "summary": "South Korea's education minister Choi Kyo-jin resigned after an AI cheating scandal sparked fears over the fairness of the country's crucial college entrance exam. #dwnews Facebook",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5va2o4bnl2aWs4azFsejA2bEt1MzFxa2d6TVFIRlhvSnk4SkRpbTRXbnFDQ3RsTDF3VTFPSXU5c1ExWWdVbHR0RzlLWUplWkd0dGNxVW1VX1MzYm5pSUlYdFFYVDFCX3d5QXFVc09Eb0k5eVBUa0E?oc=5",
+      "title": "South Korea education minister resigns over exam cheating scandal - BBC",
+      "summary": "South Korea education minister resigns over exam cheating scandal BBC South Korean minister quits after AI cheating scandal engulfs university exams The Guardian South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVEg2UGN4N0ZwMVN0UGZLbUwxTnNiY1RsS010dkxVblNQeEFhWUotR1QzRUM4dUszQ1g4bzNzSnhfLTdYZEQyeXlSSDdMdi1EVk5PU1lSa0RaNUU?oc=5",
       "source": "Google News · South Korea",
       "date": "2026-11-22",
       "category": "South Korea",
@@ -1608,9 +1872,9 @@
       "kind": "news"
     },
     {
-      "title": "South Korea Education Minister Quits Amid AI Cheating Fears - Tripuratimes",
-      "summary": "South Korea Education Minister Quits Amid AI Cheating Fears Tripuratimes",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSW01N2h1MkxEVE1uTmNmRVJMeFdrZ1lIMlRKRy1YUEwyMVVyNUFyQnJEeEZDZ3JMb1NzeHlIWEk4M3hFSmxRTDEzOGpxc0FvNFdJdHVXRnNKRk9UMGRZYThYakhHSk1Zc21HbTFqT2swckxFSHpSZURvVGZYdDdvTTFJR18wMVhiYU1tOW5WUG9BMlZBcjlGNVdDTk5mcUZjd2Zvbg?oc=5",
+      "title": "South Korea readies market stabilisation funds as KOSPI hits 10-month low - Business Standard",
+      "summary": "South Korea readies market stabilisation funds as KOSPI hits 10-month low Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa0Z5NWwwaDFydlhSa2dIYURJTXdGdHM2OUZSLUNjdjNSN2s3bUxpUmp4c3J1LW5UNzh2NFRWZlRLUThBWUhOSURORWtsQmM0MzVIbktkYmI2WjllYm91LVloZDNmSlRkQ0pCT1pZdzJfWXhldGlFbGo0U1E2TUVyWWwxSGQyRG5DQ2tMOUxLSkZkWUdjZ3lMRG5HakVRRzIzUkcyTlVudTF2MHBBdUV0azVZakZaSmprWEJLLXQyRjNDeWozZ3BtbG9Md3J0b3lRU2drb9IB2gFBVV95cUxNZ0tkT0xvRFNKbXJ1cF9nR2Rqend1azBfN0VfZ05vLUZzV0Q2QVNyRzRKOTRpVy1FZlVJUUFfbjloSjMtUUF3Z0Z0QmVhU2ZQMUpQREZTV1lrUkJIcVVkNTA2VkEwWVo1WGpyN1d0dS0zb0JvSGMtblJ5eWV5eDNLRFhBRjF0QnlsS01XUWxwbVI5QTNoNGxDUHhLNkdyTHZXZ1lFaVFZbVJjbVlmcml1SWtpbUpJRHRVRDU3ZE5FMV9wVm9KeWRLdi1QcTVMYXQ3T05zQnhUdEVOQQ?oc=5",
       "source": "Google News · South Korea",
       "date": "2026-11-22",
       "category": "South Korea",
@@ -1619,9 +1883,9 @@
       "kind": "news"
     },
     {
-      "title": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low - marketscreener.com",
-      "summary": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcUdsb3hiY1F2cnFwcUlqQVJZdVZfellFcmFMRDBRMlRyMDhUM0hvSDFXNV9JQlY0S1FqVC01bFNtRUQtTHQtMzM2R3ZGRXgyX2wteU1JQXVld0JMQkdJamZMSkIwd2ZBQm5mejZzeXJlRGlUVDlwdDRGZzVyZmJRYVhka3R6My1yMDdZVWFzb0x1RE93LUlmUkJ4alhWOXhucm1Ecmg0TmQ3LS1NdGdnS0p2LUxhUGpROUlJV1Y3Tk45X1NCT2JBdnVR?oc=5",
+      "title": "South Korea rolls out phased measures to stabilize volatile markets - Moneycontrol.com",
+      "summary": "South Korea rolls out phased measures to stabilize volatile markets Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQczdFLTI3MzBaemhSOEVQSm0tLVJ6WTc2N29fQS1HZV8xeUZIaXpZQ2VHSEVvWHhkMHhMVnc3cHlHVmRaQ3ZHWV9iSGVqOTRud25jMXJQOUVNSXpNbzZJZnNhQzlPTG5vUjlUaDNLd0xLMXVMR2RjOEdVeks4US1aWThMWWdUcTdCSVE2VV9fMkR6eTZwOVdrTnd1aEVubV82NE9oWWkxWTBWYWgtemlFOUZNMmUxX01FRzFvejktVW1tT0ZUUnlZdGRBZXnSAdIBQVVfeXFMTk9jUWN5ZUoxaTZFMzgxdzdQeTNnVTdwcmpFUDlqUGs0MnE0V2Q1TWlEWE96QlpiVThnd2UwS3c3LVJUUWI1T2t6NHdnZkU3MjNHTm52Y2VGYUxkLXJaZnlWLXkxRVdXTmU2Sk5sX1diakZjS0xWN2Z2eDdtbmc0azZNLXV4LVl2bVo0YjFydEVQTi0tUjJZeFpvbWlpS01GZk5DaTY3ZEowbkg5S0t4UEVjUFdUYTRwUk8zbXZrX0w5S2VjeHM4YjBLdlZ2Ry1PNGJ3?oc=5",
       "source": "Google News · South Korea",
       "date": "2026-11-22",
       "category": "South Korea",
@@ -1630,9 +1894,9 @@
       "kind": "news"
     },
     {
-      "title": "Women’s Asian Champions Trophy: India beat South Korea 2-1 in Bhopal - News On AIR",
-      "summary": "Women’s Asian Champions Trophy: India beat South Korea 2-1 in Bhopal News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenY2Ny1NcGNmVkJYUkltcU9TZmJEN0R6TG44SnRlUm9qamJLZjJzdHE0N3lQWVA5OVVabkoxcEhZSW1TeEdGeFJjWnVNN3VQeWlhVW9nWXFMMnhtQU9TRDBDeW1hQXR2UGZ2U0R6bGhsYnRMQktmSjFRNE9FbFdWbFB1ZkxKSV96SXNwZURwR3JEcF9qR2VB?oc=5",
+      "title": "South Korea Education Minister resigns amid AI cheating scandal - The Hindu",
+      "summary": "South Korea Education Minister resigns amid AI cheating scandal The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXZ6RkVUckxlMEp0eFRrV0o3aWpFZnFXZkp0VHd0SFZ5R0tSc2N1Yy15dWFpZVU1aTBQRVRQbDdoODh0R3V6ajg5SHVXZjhoQnNCcjRUU01GOE4zNTF2S2Q4aGl2WjZPZTA4V0Rubllrb2p5YVZNZTlxYTQtRXFjekpvVmlVcmkydW9XQllob3VjWDZuT1AyMzQxV3U2Zk1MOHU2NHRjUUpqd3hJdzlHTHlEMllCeS1LR1Z0RWJ6U3VVdTAtQkHSAcwBQVVfeXFMUEVERVpjbFowX0E1LTBmazI4a1FTN1NZVk01U3c0SDVCN2hSTnhMcWdJSmRMY251Y1c5WTFuZ3BmVDZTamlWeTU1T0VDNHJlY0FfOUZuNGZTWldLcktScnBPVzFxRWxNam5tNk9BV0twOGk5bGdobVRfX19wMl94UWtYd2t2Z0hGX1ljQ2puMVJjbF9VZFpnWFdKRVkzelFSNHFCOEZ2b3RsS1VvdUoySlVnMzNFNHN2TnlHOTlZQW9nM1d4M0gwaG1uYVN4?oc=5",
       "source": "Google News · South Korea",
       "date": "2026-11-22",
       "category": "South Korea",
@@ -1641,9 +1905,9 @@
       "kind": "news"
     },
     {
-      "title": "India should build Asian chip alliance with Japan, South Korea, Singapore: Ajai Chowdhry - The Indian Express",
-      "summary": "India should build Asian chip alliance with Japan, South Korea, Singapore: Ajai Chowdhry The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkE0djFfTkpIcXl1T3h2c09Vay1Va25DdzAyb2VyNE03Q1FuMnJYT0FET1lDMzRLSjd2TlBRa0dYLTkxRUwxVWZJN2NtMlZKemVvbHozeTE1UHpuVkMyR3hHWTBnb0loSllSelFmUkg2MnZINUFvbWIzTnhRc25EVGIyWnlXdWxBV2VFOGUtWGdfSDJaajg1QkxXMjZUWjdrSUJfdmFqRDRqMlNQYV82UGJFVVRFajBtb1Z2TTNaNVpUdHlwT09CR1FXa3drQdIB1AFBVV95cUxObmtzMGJoSldiMHNDOXhCdUVwNlRfUk5WcXJqR1JKLWtVNzBSOWV5ZWFINnAtdENmSHNacGZaSmFlS2ZjUFl2bTFNN2VRbVRWQWhTMDVwNkhfbi1KemVBWVlmMVhiSDUxbVNlYndnSmhMOFRFdTY2ZGtTWnY5WDhEaHNfUmVyUmZqUTdCNk5YMTNGVFMxdzVNd2k1dFJ5YW5OeC1DdFJ2V1B0TGdzQkoxNFpnWUIwS3A0MHQ0d1JZS29Oa2RycGhFRFM4OHdDVzd4bVJiRw?oc=5",
+      "title": "South Korea education minister resigns over exam cheating scandal - BBC",
+      "summary": "South Korea education minister resigns over exam cheating scandal BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMVl9QWGNPV05lRkhnQTFlclpiWERGUnBreS16amJ2S2pnQXA1bDQ5cEtVTTF1UWhMWnZOOTJxMWp5Y0pxOV9tYkhGVFhZZF9sQXAwaFpXUUNxNmlQYkE?oc=5",
       "source": "Google News · South Korea",
       "date": "2026-11-22",
       "category": "South Korea",
@@ -1652,9 +1916,9 @@
       "kind": "news"
     },
     {
-      "title": "South Korea's Semiconductor Boom Comes With a Warning: \"When the Good Times End, Long Slump Returns — Now Is the Time to Reform\" - BigGo Finance",
-      "summary": "South Korea's Semiconductor Boom Comes With a Warning: \"When the Good Times End, Long Slump Returns — Now Is the Time to Reform\" BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvYk9mbzFXdWZuWVRHdVAxTmhETXRXbDktTzZ4MHpqZzR4VGxFWWRwMndQZlBsaXpVMDVmTEh0bi1pRjkwNlJ0bGk1SlJhX2xZWTBiWkVmWUNrRVJrOUFrdlV0WXZZVURsNUxJcTJpazNnRzV3a0E?oc=5",
+      "title": "South Korea education chief resigns amid AI cheating scandal - CNA",
+      "summary": "South Korea education chief resigns amid AI cheating scandal CNA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlhoekZKUDBrd1ZLQUEzOUxBNG9DaUh4Tk42WkVOZFhtWER3LVdWbWJoeE5lODlfOWdBUElXYVFwZThiTzdfaktMVFVoWWx5ejNnZEN4dV9wRW84RDZYM0JlNGNOVC1IWTRGLVNVWEhMclVhWm5FSDJ3ZjVlYlg4MllUckVJam5NRkRVUE1XdS14U3JhYlhTT0oxQ0JWS2R4VnBTMHVnRzhmZjNQaUZaclZsaw?oc=5",
       "source": "Google News · South Korea",
       "date": "2026-11-22",
       "category": "South Korea",
@@ -1663,20 +1927,9 @@
       "kind": "news"
     },
     {
-      "title": "South Korea posts record car trade deficit with China as Tesla EV imports surge - Anadolu Ajansı",
-      "summary": "South Korea posts record car trade deficit with China as Tesla EV imports surge Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjVPbDRMNkFPRnBvNkZDeVBScHVLUGh0WWRNc241ZnhFN1RlYlRVXzQ4cmwyaG5Zc05vWm14YjAxZU9rUHJSVXd3VENpdEFKeEJWQlJ5RDdFVXhkWXRIR1NqaTlLazZ1RUh6SnpDcTFrRVJVTlo2MHp0aHltQmZVNjVoVmNyd2hGTHM2NjA5NVpYVDFyMlhxUlF0VkxPcDdzd3dwd3U5c05nTlVhcVhBdEJWb3RYUF93WlFsU1dtNlVMWjg?oc=5",
-      "source": "Google News · South Korea",
-      "date": "2026-11-22",
-      "category": "South Korea",
-      "subcategory": "South Korea",
-      "region": "Asia",
-      "kind": "news"
-    },
-    {
-      "title": "Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding - NDTV",
-      "summary": "Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXRQSUlxc21tcjdqSTN5SG9za1pzTnI2X2ktSm9XN1lQYm9UQUJDekhtUTR4WFVxcWc1aDBZSzJ1cy1sclotcEp3clg0ZERkUUdvcF82eHRPLXYxekJBMkxNQUdkQ2FJT2plNlg0QU94dkY1VWpFVkc5LVdRSUVRNDhOczN6Y0xscUNZMFdmWU56QWxhMklxOGRwb0tfRTdqLXRDRHlrcUNvZ2owOGRDQXc0em1reEpBS0HSAcIBQVVfeXFMT2FzTDJIREZxWW1DeVYyNWRMTzFaX3BKMDhSc29VbTVYektMdzNzLTdQN1d2cjlRRFZ5Vm9aTE9abzJjOEZKWTJUMmRwVzN3R20zQ3JzMGVyaXNTVndvdVdGaURUNjVzcmRkd2lwanhpY29OcmhpbUNIaDg1czNBNkZaaDZMOEVqcDBSZFpaUnRkNjdmSmhIUlM3MFAteV9LcnZkNFc4a29BeUEwVW9Hb1AtRFkzWTVoak1ubU4yeXI2dWc?oc=5",
+      "title": "IND vs NZ 1st Test Day 4 Stumps: New Zealand trail by 233 after India’s mammoth 720/9 declaration - The Hindu",
+      "summary": "IND vs NZ 1st Test Day 4 Stumps: New Zealand trail by 233 after India’s mammoth 720/9 declaration The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1JCdTlPcFAydzExVmFDaHNfM1Z4WjdNWDNDeEtQdm5Vb2NGN2VqbzRwb0Jmamhyc3R3cDVBVTVlMkNYMkp0WjB0Mk1sYnBMazlULWMydmY2cURHZjBjeGVhWnllVU1tTDZmN1NNYTlRQkxwVm5pV09LblJPNzF1MjJjMWVUSV9RLTZyWWZNTE9TNXppTmlBMG5wZlQyZ3RKQ1YxTGlodEhnVXNJbzQ0YTNiVl9hOXhxTkgwVWl30gHEAUFVX3lxTFAtZl9vNGZzcGU4bjVBSE9RaC1OQnJ3T0djSTA2dmRDOEF5NmRIQ18zSXlUT2YzWTRacXdWX2dFVTMzN0RDSkd4bFZPcEwxMGJ1aUdXWVgwNVNxY2xHcUthTHF3dmlTQkdjV0ExSnBGeF9DczBsRk9ESm9TbXdvcFpTR0tSNGlKT3AzMTdwM3RRSTVVU2ozT0x5eXJOUzRDRHhKMGRpc1FCQ1BrTkRMVVliM1FlemhvNGdKWFZtcXVUV0hGdUY?oc=5",
       "source": "Google News · India",
       "date": "2026-11-22",
       "category": "India",
@@ -1685,9 +1938,9 @@
       "kind": "news"
     },
     {
-      "title": "IND vs NZ 1st Test Day 4 Stumps: New Zealand trail by 233 after India’s mammoth 720/9 declaration - The Hindu",
-      "summary": "IND vs NZ 1st Test Day 4 Stumps: New Zealand trail by 233 after India’s mammoth 720/9 declaration The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1JCdTlPcFAydzExVmFDaHNfM1Z4WjdNWDNDeEtQdm5Vb2NGN2VqbzRwb0Jmamhyc3R3cDVBVTVlMkNYMkp0WjB0Mk1sYnBMazlULWMydmY2cURHZjBjeGVhWnllVU1tTDZmN1NNYTlRQkxwVm5pV09LblJPNzF1MjJjMWVUSV9RLTZyWWZNTE9TNXppTmlBMG5wZlQyZ3RKQ1YxTGlodEhnVXNJbzQ0YTNiVl9hOXhxTkgwVWl30gHEAUFVX3lxTFAtZl9vNGZzcGU4bjVBSE9RaC1OQnJ3T0djSTA2dmRDOEF5NmRIQ18zSXlUT2YzWTRacXdWX2dFVTMzN0RDSkd4bFZPcEwxMGJ1aUdXWVgwNVNxY2xHcUthTHF3dmlTQkdjV0ExSnBGeF9DczBsRk9ESm9TbXdvcFpTR0tSNGlKT3AzMTdwM3RRSTVVU2ozT0x5eXJOUzRDRHhKMGRpc1FCQ1BrTkRMVVliM1FlemhvNGdKWFZtcXVUV0hGdUY?oc=5",
+      "title": "Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding - NDTV",
+      "summary": "Delhi Cop Gets Rs 9-Lakh Aura Instead Of Rs 13-Lakh Brezza. He Cancels Wedding NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXRQSUlxc21tcjdqSTN5SG9za1pzTnI2X2ktSm9XN1lQYm9UQUJDekhtUTR4WFVxcWc1aDBZSzJ1cy1sclotcEp3clg0ZERkUUdvcF82eHRPLXYxekJBMkxNQUdkQ2FJT2plNlg0QU94dkY1VWpFVkc5LVdRSUVRNDhOczN6Y0xscUNZMFdmWU56QWxhMklxOGRwb0tfRTdqLXRDRHlrcUNvZ2owOGRDQXc0em1reEpBS0HSAcIBQVVfeXFMT2FzTDJIREZxWW1DeVYyNWRMTzFaX3BKMDhSc29VbTVYektMdzNzLTdQN1d2cjlRRFZ5Vm9aTE9abzJjOEZKWTJUMmRwVzN3R20zQ3JzMGVyaXNTVndvdVdGaURUNjVzcmRkd2lwanhpY29OcmhpbUNIaDg1czNBNkZaaDZMOEVqcDBSZFpaUnRkNjdmSmhIUlM3MFAteV9LcnZkNFc4a29BeUEwVW9Hb1AtRFkzWTVoak1ubU4yeXI2dWc?oc=5",
       "source": "Google News · India",
       "date": "2026-11-22",
       "category": "India",
@@ -1718,6 +1971,17 @@
       "kind": "news"
     },
     {
+      "title": "Nepal PM Balen Shah Begins First India Visit, Talks With PM Modi Tomorrow - NDTV",
+      "summary": "Nepal PM Balen Shah Begins First India Visit, Talks With PM Modi Tomorrow NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3hjODNNdEUxS1E5V1Q0V01mZU95VVZ0QWlPaEdrVkgzRW5JQjU1VGxxQVNtRXN6NTc4YjZ5d0dUMlFtdk1ScHVrdlhuZnlXTV80S3VTek1oUDFMb1BuaHo5WXNaRTI1WldtdnQ0N1VmWmE2UTM0aExxMFpqekc0ZGxfcDA5WnpId1BCWlFyUlNwU2JVVnFuZDRIdG5wZkhrM2F5RzFGSEF4NHlqTFVJWGYzTdIBuwFBVV95cUxQX3ljNWpFRDRKQk5vVktfOG9SQlFfSUpKcjAyQV9fT0N3VjFzdEdCMDhkNGZUZ0xmdTM4VFRpa3VySTNwZHdjZjRoVC1Dc0FNQ195V1NGTDREMXlWYXVTT2F3RXRvaGdQMWF6elJqR0lSQ24zcGxvbm1CWGx6VkV5S3dHOW1ndXFaRkRJUnZpck5lMzlieXFWbk4yNG9SdlBNRkx3QjFjb2pEWG5fZlRZRHBfTDQ2dUp3LUlz?oc=5",
+      "source": "Google News · India",
+      "date": "2026-11-22",
+      "category": "India",
+      "subcategory": "India",
+      "region": "India",
+      "kind": "news"
+    },
+    {
       "title": "'India cherishes special friendship': Jaishankar meets Nepal PM Balen Shah - The Times of India",
       "summary": "'India cherishes special friendship': Jaishankar meets Nepal PM Balen Shah The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRUVOUGpYN1VEUzc0clBqVW5vUkFKdVdsLVI2N0hVbVhKZlc5MExyS0x2TVJoV0ZvbW1RLWwtNHhfaXYzM2xJcWdLdlk2aTNCd1JLTXVWSG1JSHA1SmFkTHIyRGJZQTNRS3dFSDhHSVdKQjNhUndqZkI2X041bEJDaS1aSDB0SkctVWNNc1JMSzVJV002bkhoNWQ5R3dYZ1RpLXVndkxtMFZQV2U0b28wQXU2SmZFMzlKSy02WV9kNmdjVXRybzVoOG54ZzVpSllFT3RrVdIB2gFBVV95cUxQOG9lZF9YTnI4Z2lXYjBtMldabFBIUDJMR2YwekREUGlaTEtncnpMU25vblpPdVBNeEF1cDRsQi1RRm1uekxBQ3hhSFlUWlFNTGI4SEdIXzc5QXJMcWZLMm5FS0ZLSHNxOXlucWYxeF9ZSVR4Ni04azdveE53bGFHZlNncU85M3ZsME9hbFhZUHI2VlpNQWhibHFJRFh3b0t5elF3dmtwN0ZNVEJ0TTU5WHJqS19UWDhsYWxkd1RJVG9QUVVFai1aTmlEOF9qbllXc0d4ckRRUDZXQQ?oc=5",
@@ -1740,30 +2004,8 @@
       "kind": "news"
     },
     {
-      "title": "Nepal PM Balen Shah Begins First India Visit, Talks With PM Modi Tomorrow - NDTV",
-      "summary": "Nepal PM Balen Shah Begins First India Visit, Talks With PM Modi Tomorrow NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3hjODNNdEUxS1E5V1Q0V01mZU95VVZ0QWlPaEdrVkgzRW5JQjU1VGxxQVNtRXN6NTc4YjZ5d0dUMlFtdk1ScHVrdlhuZnlXTV80S3VTek1oUDFMb1BuaHo5WXNaRTI1WldtdnQ0N1VmWmE2UTM0aExxMFpqekc0ZGxfcDA5WnpId1BCWlFyUlNwU2JVVnFuZDRIdG5wZkhrM2F5RzFGSEF4NHlqTFVJWGYzTdIBuwFBVV95cUxQX3ljNWpFRDRKQk5vVktfOG9SQlFfSUpKcjAyQV9fT0N3VjFzdEdCMDhkNGZUZ0xmdTM4VFRpa3VySTNwZHdjZjRoVC1Dc0FNQ195V1NGTDREMXlWYXVTT2F3RXRvaGdQMWF6elJqR0lSQ24zcGxvbm1CWGx6VkV5S3dHOW1ndXFaRkRJUnZpck5lMzlieXFWbk4yNG9SdlBNRkx3QjFjb2pEWG5fZlRZRHBfTDQ2dUp3LUlz?oc=5",
-      "source": "Google News · India",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "India",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "India A vs Pakistan A Live Score: Tilak's century in vain as Pakistan beat India by 48 runs - India Today",
-      "summary": "India A vs Pakistan A Live Score: Tilak's century in vain as Pakistan beat India by 48 runs India Today",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSERuRXBES0M1OTZkckRsLU9SejEwWm1MelNnZ1JzNHFVMmVKem9LQkYwYWl2T1pNZWVCVUlkc0tDdjcxZFNMTGVUcGdCT1NQanhkQm5hUXl3OHJDNXhSOXpDSFU4NlVrZGVxZ0lvdTRDZzZMNjlmZWl6TVlXZktnajN3RFFWdmtiZ25MbUR5ZEFTMzhWM3dQcnV0Ti1wbkZkdlA4X0xteTJRdWtuVXJidmlqejJYVjhRcVFVNEtXdU1DNzFoN1ppVy1FQzdKenlaOTlTOHBn0gHbAUFVX3lxTE83VUNMYVRySW54eHU0VXA0QVVvRGdyNk5qX216OEZBSDZST2tEOWxkMHlzZ0dvcUp1a25na0NnellfRWFWNGFTdDRYZmdreC00X1JOc255YWhJZ185SDNfQ1pQUUNkNmdTTVNPN3JnUGNQY25DX3FiV21kWFA5OXRJTjJaVDFfSEtQSVV1VE5vUW1WcHlDNnFyMHRWeDFUODhqU1pwUHZJdFg5dnJXQVdXc1lwTDNlOFdzV2pvQlQ4UlRQYXFPckM2cEtTMEota3l2ZG4weGFQSmgxYw?oc=5",
-      "source": "Google News · India",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "India",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "India, China hold 10-day talks to ease LoAC tensions in Arunachal Pradesh - The Hindu",
-      "summary": "India, China hold 10-day talks to ease LoAC tensions in Arunachal Pradesh The Hindu",
+      "title": "India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh - The Hindu",
+      "summary": "India, China hold 10-day talks to ease LAC tensions in Arunachal Pradesh The Hindu",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjYxc2l0MEpXN1FicE8wTDktVFUyX0NGbFpNMHhrSWktZURqZjgxZDhzZFFjeEJabWtGTzZjU3JabXFTUXFZQmFvekRSQ1VhcHRyWlY4c0JrajBCQUhjSXZ6NlpvcGZYTzM5Z01lREg5dG1tcFJSWV9LTW0tQjg1WFhyWW9PMGo5OG1UaE1fZklkZG16ZXJMa3psYWJpR1lWdTN4eWlCeG83SkdJQVhMSHVrWG9mNEVRWThNYU9qenZaY001dEhkTUFaQdIB0gFBVV95cUxOQkJ6U2FKQ1NxMVRXdm0zT1d6WGg2OWZVV3ViOV95dEk1VjduZFJrTzJyT2sxN09VQlZYenlyQnY1bWNIZVZQc2FCeGtQR2pPSDFoRHI0aXd2VnNla1g3MXllREUyZWk2b0dNaTM5emJMOGNrSFA4MV8zaWNIZnY0XzRTYnAzeFhMYU15ZFJXTV9LYlRfN3M0aExMNmJFdk1SUzNMaDM4V21RajJGM2NVTEdoYjJvR19RRXJpc3pEenJvUnpZZmN2VzhVVFhNdEFOZEE?oc=5",
       "source": "Google News · India",
       "date": "2026-11-22",
@@ -1795,17 +2037,6 @@
       "kind": "news"
     },
     {
-      "title": "Taj Mahal Yes, Nizamuddin No: Why India Denied Pakistan Minister Musadik Malik’s Dargah Visit - The Times of India",
-      "summary": "Taj Mahal Yes, Nizamuddin No: Why India Denied Pakistan Minister Musadik Malik’s Dargah Visit The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcTUtN0tTWWZXLWR5dl8yLTdaYXhVdXR5MGY0R1ZJN1F4UVlYZUFnTGJ1TlBIRzZmNloya1NRMllFWEN5QTR5QmdFbGNoT3pQa2hUZWY3Z1AwV1Eza1NBTFd5R1ZEOUl4T05XWVRLUnU3b0J4V3ZjcG8tRzRuSVdsVy1YVm94SkVLbUp2WE9QdmV3YWQwQWVqX2pZdWUxWjN4OHU5SVZVcTRHSmNrTlA2cDBUNC1WVnBZbmtCWGg2dWNqaFpJSC05Nk9vS1FMYlFKaGZlcWtmZUttY29OZ0JuRWtaaGktbkdJRlJFWDc4ek43aEc00gH6AUFVX3lxTE9EWGhvQVZER19DRlR5NFBBMGhuc3Z0bTFKd012N2wyQVV6V0l0aWJubGUtM284aHVURVI4ZjFIWE83VWhBbk5Od3I3bUZHcDlBbmc1aWZqZU5mSm5nM09CRG1ON1M1SnJZcFdVQ2gtRWtmbHNMeGdwUENZX1FjT0ZEcnA4ZjBkSGZyX3Jrb2hsaGE0c1RyZnNkMXJSSVFyYkZVcnVtdjc1cmF2cTVmY1dkd2RDRWc4ZC1fa3YxU3Z3bVhMSGQzWVlIck1Rd2lxbUFzdGNjdWZhYjI1OE00TlpjNkFZNXFsRGtySGgwcExmS25vbklxc3g1Z1E?oc=5",
-      "source": "Google News · India",
-      "date": "2026-11-22",
-      "category": "India",
-      "subcategory": "India",
-      "region": "India",
-      "kind": "news"
-    },
-    {
       "title": "COP31 fails to agree climate deal in chaotic finale - Prothom Alo English",
       "summary": "COP31 fails to agree climate deal in chaotic finale Prothom Alo English",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sbmxmS2JXYlY2dDlQQzRMT0g0YUNnVzNnM2JpZ2toWHVydi1QSTRzNC13STdpVTB4Y3Y0cDFDNC1PXzVpT2lRM01rMU9Fa052OElMUXRPNjRNQ0Fa0gFqQVVfeXFMTXFRQi1zSUdma09QbU11bjdpQ0h4MC13V0JBYWV5c2NwQlgtRXBlTFhrSGRCd1k4eElYM0tMVG5uYlc2Nk5GaHpEbmVHOUhJVjVCLTdRdHZZWHBJSUxkLWNnX2xtdDZQM3IwUQ?oc=5",
@@ -1813,6 +2044,28 @@
       "date": "2026-11-22",
       "category": "Climate",
       "subcategory": "Climate",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "When the Days of Being Wild Come to an End",
+      "summary": "I used to romanticize being a bit of a disaster. Now, I have become a man who just...likes things to be nice.",
+      "url": "https://www.vogue.com/article/when-the-days-of-being-wild-come-to-an-end",
+      "source": "Vogue",
+      "date": "2026-11-22",
+      "category": "Fashion",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Gabbriette Bechtel and Matty Healy Are Expecting Their First Baby",
+      "summary": "First romantically linked in September 2023, Gabbriette and Matty married in July of this year at a Hollywood Hills estate.",
+      "url": "https://www.vogue.com/article/gabbriette-bechtel-and-matty-healy-are-expecting-their-first-baby",
+      "source": "Vogue",
+      "date": "2026-11-22",
+      "category": "Fashion",
+      "subcategory": "",
       "region": "Global",
       "kind": "news"
     },
@@ -1894,7 +2147,7 @@
       "kind": "news"
     },
     {
-      "title": "Miley Cyrus and Maxx Morando Are Married!",
+      "title": "Miley Cyrus and Maxx Morando Are Married! See the First Photos Here",
       "summary": "The couple tied the knot in a poolside ceremony in Palm Springs surrounded by dramatic flowers after five years together.",
       "url": "https://www.vogue.com/article/miley-cyrus-and-maxx-morando-are-married",
       "source": "Vogue",
@@ -1982,6 +2235,17 @@
       "kind": "news"
     },
     {
+      "title": "The Chronoswiss ReSec Final Edition Manufacture: It’s Time To Say Goodbye",
+      "summary": "All good things come to an end. This universal rule applies to the watch world too. Brands discontinue models all the time. Some simply fade away, while others go out with a glorious bang. The Chronoswiss ReSec Final Edition Manufacture, a limited edition of 100 pieces, does the latter, albeit in a sophisticated way. Eight […] Visit The Chronoswiss ReSec Final Edition Manufacture: It’s Time To Say Goodbye to read the full article.",
+      "url": "https://www.fratellowatches.com/new-chronoswiss-resec-final-edition-manufacture/",
+      "source": "Fratello Watches",
+      "date": "2026-11-22",
+      "category": "Watches",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
       "title": "Is It An Issue When A Brand’s “Best” Watches Are Limited Editions?",
       "summary": "Blancpain recently released a Fifty Fathoms Bathyscaphe celebrating 70 years of the model. By most accounts, it is one of the finest watches the brand currently makes. Unfortunately, it is also limited to 300 pieces. IWC has followed a similar strategy for years with its Pilot’s Watch line, most notably with the Tribute to 3705. […] Visit Is It An Issue When A Brand’s “Best” Watches Are Limited Editions? to read the full article.",
       "url": "https://www.fratellowatches.com/when-a-brands-best-watches-are-limited-editions/",
@@ -2004,9 +2268,9 @@
       "kind": "news"
     },
     {
-      "title": "Rockstar Says Jason's Viral Personality in GTA 6 Comes From Steve McQueen and Real-Life Veterans",
-      "summary": "Rockstar Games has opened up about GTA 6 protagonist Jason's viral personality and the two specific inspirations that helped bring him to life.",
-      "url": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+      "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+      "summary": "A GTA 6 developer has paid tribute to his late mother with an in-game memorial in Leonida that players can find and visit for themselves.",
+      "url": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
       "source": "IGN",
       "date": "2026-11-22",
       "category": "Gaming",
@@ -2015,9 +2279,9 @@
       "kind": "news"
     },
     {
-      "title": "Forget the Lighthouse, GTA 6’s Best Minigame Is a Full-Blown Zombie Shooter That Will Take You Hours To Beat",
-      "summary": "Yes, we know you're all playing GTA 6, but don't forget to check out Street Trash 3: Dezombifier, the certified banger on Jason's JoySystem console.",
-      "url": "https://www.ign.com/articles/forget-the-lighthouse-gta-6s-best-minigame-is-a-full-blown-zombie-shooter-that-will-take-you-hours-to-beat",
+      "title": "The Alienware Aurora RTX 5070 Gaming PC Drops to $1,899 at Amazon for Black Friday",
+      "summary": "The same configuration is \"on sale\" for $2,660 at Dell/Alienware direct.",
+      "url": "https://www.ign.com/articles/alienware-aurora-rtx-5070-gaming-pc-deal-november-2026",
       "source": "IGN",
       "date": "2026-11-22",
       "category": "Gaming",
@@ -2026,9 +2290,9 @@
       "kind": "news"
     },
     {
-      "title": "American Psycho Remake From Director Luca Guadagnino No Longer Happening",
-      "summary": "Director Luca Guadagnino has confirmed his American Psycho remake is officially dead.",
-      "url": "https://www.ign.com/articles/american-psycho-remake-from-director-luca-guadagnino-no-longer-happening",
+      "title": "The Bose QuietComfort Noise Canceling Headphone in Petal Pink Drop to a Mere $125 for Black Friday",
+      "summary": "Beats the previous lowest price by nearly 25%.",
+      "url": "https://www.ign.com/articles/pink-bose-quietcomfort-noise-canceling-headphone-deal-november-2026",
       "source": "IGN",
       "date": "2026-11-22",
       "category": "Gaming",
@@ -2037,9 +2301,9 @@
       "kind": "news"
     },
     {
-      "title": "Animal Crossing Crocs Are Finally Back in Stock — and Discounted for Black Friday",
-      "summary": "Amazon has finally restocked the adult Animal Crossing clog with a new Black Friday discount.",
-      "url": "https://www.ign.com/articles/animal-crossing-crocs-amazon-restock-black-friday-deal-2026",
+      "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Final Black Friday Price on Amazon",
+      "summary": "New price low.",
+      "url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-black-friday-sale-2026",
       "source": "IGN",
       "date": "2026-11-22",
       "category": "Gaming",
@@ -2048,9 +2312,9 @@
       "kind": "news"
     },
     {
-      "title": "In GTA 6, Cars Are Way, Way More Than Just Getaway Wheels",
-      "summary": "GTA has always been obsessed with cars, but in GTA 6 your wheels are for more than just getaways - they're your mobile base.",
-      "url": "https://www.ign.com/articles/in-gta-6-cars-are-way-way-more-than-just-getaway-wheels",
+      "title": "Save $400 on Ecovacs' Flagship Robot Vacuum, the Deebot X12S OmniCyclone, for Black Friday",
+      "summary": "Continuously self-cleaning mops, a self-sufficient base, and more leave floors sparkling while you enjoy the holiday season.",
+      "url": "https://www.ign.com/articles/ecovacs-deebot-x12s-omnicyclone-black-friday-2026",
       "source": "IGN",
       "date": "2026-11-22",
       "category": "Gaming",
@@ -2059,64 +2323,9 @@
       "kind": "news"
     },
     {
-      "title": "10 Best Early Black Friday Gaming Deals You Can Already Shop",
-      "summary": "These are IGN's top 10 early Black Friday gaming deal recommendations you should actually consider buying before the big day on November 27.",
-      "url": "https://www.ign.com/articles/best-early-black-friday-gaming-deals-2026",
-      "source": "IGN",
-      "date": "2026-11-22",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
-      "summary": "Physical copies of Donkey Kong Bananza have received a $20 discount in Nintendo's Black Friday sale, bringing its price down to $49.99.",
-      "url": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal",
-      "source": "IGN",
-      "date": "2026-11-22",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Nintendo Switch 2 Gets First-Ever Official Black Friday Discount, Dropping Mario Kart World Bundle to $499",
-      "summary": "Nintendo's first official Switch 2 Black Friday deal is live for a limited time, bundling a flagship game and free bonus perks while undoing September's price hike.",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle",
-      "source": "IGN",
-      "date": "2026-11-22",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Nintendo's 2026 Black Friday Sale is Officially Live",
-      "summary": "Nintendo's official Black Friday sale is now live and includes a rare Switch 2 bundle discount, up to 50% off Switch 2 games, MicroSD Express cards, and more. Here's where to find all the top discounts to ensure you're saving as much as you can.",
-      "url": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2026",
-      "source": "IGN",
-      "date": "2026-11-22",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
-      "summary": "Brandon Sanderson's Cosmere book universe has been expanding to the tabletop for years now. Ever since the prolific fantasy author partnered with Brotherwise Games, there's been a growing wealth of Cosmere board game adaptations worthy of your time. And right now, Amazon has dropped the price of one of the best options by 50% for Black Friday. The Cosmere RPG isn't for casual tabletop gamers, it's more akin to a Dungeons and Dragons experience . If you enjoy the Stormlight Archive series and immersive tabletop RPGs, you're going to love diving into the world. We liked it enough to give it a solid 8 out of 10 in our review back when Stormlight",
-      "url": "https://www.ign.com/articles/the-cosmere-rpg-core-rulebook-for-the-stormlight-archive-is-50-off-for-black-friday-2026",
-      "source": "IGN",
-      "date": "2026-11-22",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
-      "summary": "Slippers are one of those classic Christmas gifts pretty much everyone has received at some point in their lives. They are one of those practical items that everyone is going to use at some point, but rarely do people actually get excited when they unwrap a new pair of slippers. Sure, there are plenty of themed options out there that feel fun, but where do you even put those when you aren't using them? Well, if it's a pair of Piranha Plant slippers, that problem has been solved for you. Just place them back in their Pipe holder and your footwear is instantly transformed into a little Piranha Plant. Suddenly you've got a fun piece of Super Mar",
-      "url": "https://www.ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026",
+      "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
+      "summary": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice.",
+      "url": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
       "source": "IGN",
       "date": "2026-11-22",
       "category": "Gaming",
@@ -2268,6 +2477,39 @@
       "kind": "news"
     },
     {
+      "title": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia - Yahoo Finance",
+      "summary": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXhsb1I4V0xwaGxLenV3SlRaLTNyYk9FbUVLM3NZb0VqTVBxckJiMl9rWW8zTFU1VE5ZLXFoeDJnNDRNblRLcm9DeTcwYU9yXzZoYVFfU0FyZklTU3FUUjlvSnJJSGNhN285aHotdGhQRFl6Z0NuekdrZmdXQVpEYmFLckNTQk5JVnFkMENZSm1Da25FMS1uc3NUSFM?oc=5",
+      "source": "Google News · Stock Markets",
+      "date": "2026-11-22",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Chinese exchanges ease margin trading requirements to aid stock markets - Reuters",
+      "summary": "Chinese exchanges ease margin trading requirements to aid stock markets Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHZKRlQ0Y0pzZDRaTzJIdHRfX2dkZkVVUUh4YXotTkpLQTdrQ0NPTzVXTzVjczF2aUdKYTRtTHg5Wl9GLU1VbjFkREJ0bXY5S2RDdXphbnowRFdsUldyVGZsZFVIY1N0VTg0Q3RYOWp6TDVlb2lhOEhpM3M2d1NFZDhtdExWcERBS3BmVFNiVEprV0swRWhORV94MG1rcWhYUGpEQnR5akI5cXN0ZEhr?oc=5",
+      "source": "Google News · Stock Markets",
+      "date": "2026-11-22",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "Borrowing money to invest in stocks? Charlie Munger's warning explains why a market crash can put your savings at risk - Livemint",
+      "summary": "Borrowing money to invest in stocks? Charlie Munger's warning explains why a market crash can put your savings at risk Livemint",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOLVlTd1VmQWNWY0FLem5qbTZvM091aU5iUVJWXy1mb2plU29TdnEzcmRsQzhZZmtwUFkwa1BFUVBxdWJPek9qOUhSYVRpdlRoUlZPaHE0dU80ZUlJWjFkMl91ak1HVFlKNjVDWGIycWlRalAtOEhybjZaZzhPWTF1TERDNzVCd3ZVNUdVRFBzX3RMNzV0eDZKQ2NrcjFYRGFQOWJkalcyLVZzY05Va2VKRkJWQXFsRGVWSzlxQVJieTdydEdUS2N1ZkFvaGUyWXI4YXFXM1NhaUpBVGRhV2dWWHpEWFVsSFNnR1FwempDTFFsVzIwdm9SOVlzRzE4bjhxUV9kWkFSRU4wUW9kbTF6b2hR0gGXAkFVX3lxTFB3d3ZwS1V4aFBLZFlBU1dmUElJV0VWN3FINEtvdDIyMFVGdEpXcTMybFFLRG44VjhmVURiWEFMVkZoeUpJOXhLQ1oxV1dJdEJSWWlzU1g5aE9yckk3WE5WM00yZHdCQmg0RzdDbktsM0IzVG55d3dFdkJTZDFpRlg1bnZod2dwUDFtVVh3eDVrV2MxaHVpRy0xSHhLMUFsMW9ia1hZNjZIZ1N2NG9IZ1VDX2lvYVpGSnZwaXlEaUVZRlBMcDBPVTMtZlctRHd4dVMtdUZtVjdWNHRBdnlVZ19YaDhDMVZ0LWNkam5sNWd4UGRFVkgzX1A2bVRIcW93X011anRkb0FYb0VHdXR4T0R4TW4yMlYwQQ?oc=5",
+      "source": "Google News · Stock Markets",
+      "date": "2026-11-22",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "Global",
+      "kind": "news"
+    },
+    {
       "title": "Do Indian markets have more steam left after 13% rally? Morgan Stanley forecasts 18% earnings CAGR ahead - Upstox",
       "summary": "Do Indian markets have more steam left after 13% rally? Morgan Stanley forecasts 18% earnings CAGR ahead Upstox",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObkttMWlXeFBCdVdqZ0RFSHNqS2lReENYZnVmbnEySHZkYUhzVlFnNlRzT0lZTm1MYXN6RjVaZTFZVXhZNEpaSU9pb2VBS0pFTDM5dFZkZEV1ZkYwSXlVUWtGRXNOYldoY3BGSFlTbTNhN3Jva0N3TmltcFl4MjRJUnBQdmNnaGZNVGljbVdPcFBSTktlenJSMWNhNllHYzdzV1FyZVgzY3pFMk1BWXFKeC1sa05pbWt3a3hucWN0cTB2SDNwZWNQcTM5a0JOTEIxMXRQY1hOZU9tRHpQbkF5MnFpOHZzZWUzMlpCalNLVUI3QQ?oc=5",
@@ -2279,9 +2521,9 @@
       "kind": "news"
     },
     {
-      "title": "GLOBAL MARKET CALL: Stocks Are Cheaper Everywhere - Yardeni QuickTakes",
-      "summary": "GLOBAL MARKET CALL: Stocks Are Cheaper Everywhere Yardeni QuickTakes",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWNBdUxFWGJWVjBXbE1NeExCdXlJc0tKSm9oalo4Q3VPSk5yNFFwVGdsYnRKWk51c183VVBSTFBvOWttTWlIQzZtV1BNOTdIUFViRVJSVVlIRHp5cUpjZW9zd0ZZV0FDQWVMREZaMUg4WlN1MFVzWkJTb1JoYkdDTkNwZnR3VXNjaXR3?oc=5",
+      "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week - Business Standard",
+      "summary": "FPI, crude oil, global trends to to steer markets in holiday-shortened week Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1VaRGNHd1BJRkhRVDVQY1RRc1l0VHRDdWF6TjdqWERTZXdINzU3WU5UQm1lLVJwSzM1Q2RmQ0xMQ1AyTWs2NldOM2FhQnZJeVZMc2plSjdleXRjc2dzU0d1UDd2eTA4Q1hXcTZRS1IyV1h4ek9fb0VFTDNodlZlN1g5TmdqT0IyemFvQ3JBbEtld3c2UzRVQ0hWQTdBVXdIN2VmZkNwQWRuYzExVk9FaVlFNG5lYm1lWEFXaUNxVlBZc0xWQndjaC1CRlFlZGFicWVQQnJXc9IB3AFBVV95cUxPQl9kN1ZueE8wNTV4YWozeEo3akV0Yy1sZUxfSXpiSlVGd0FTYVpncWNtM2ZHVWp2el9uNVNHelIzY1NpeERvTHJnWURUY3BtNDhiQUx2SEtBVmROTTYtWE9ZamtqVEZJQTJnLWZnaDNRdXV2YlpzQTJvRTNHSVpGaWhsb3AzSWZ4eGlsR1BTRkNjRXZhTFpLblpUVzZLbFVLR19kd0ZzcEVGbWVzb01IOFM5TzFfNG83djA4dlU4aTlBeVZnUWJlZ3YwOTdBNjYzandnUFNfWXBQZG5n?oc=5",
       "source": "Google News · Stock Markets",
       "date": "2026-11-22",
       "category": "Stocks",
@@ -2290,20 +2532,9 @@
       "kind": "news"
     },
     {
-      "title": "The Stock Market Is Doing Something for Only the 5th Time This Century, and History Says It's Obvious What Comes Next for Stocks - The Motley Fool",
-      "summary": "The Stock Market Is Doing Something for Only the 5th Time This Century, and History Says It's Obvious What Comes Next for Stocks The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORUQtblJfenRtODNzS1I1NTZJTDEtaWgzX1dYSjhYckE2NDlraGpzUFNzXzhPV2F5U3Z4YWNUdXctdE9MamlDUjhpbU1yMW1zd2Z1SUlyUG1sLWpQLXY2RDVfaWE5NjI1Wm56REdTS1lvRHdjVXhmNER2Wl9ITktDMmM2MU9ReG80WnQtTVE1Z0ctM2oyeVg2OWdCYU5EM0VBdmgxUnBhUE9Wc01lVzNNN1lZOTRGMGZTdlpFcnpsTlVKTmpiZ0p3NHhjN3FZblVTa29mUVhPQQ?oc=5",
-      "source": "Google News · Stock Markets",
-      "date": "2026-11-22",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Will Maruti Suzuki cars become costlier after latest price revision? Stock up 22% in one month - Upstox",
-      "summary": "Will Maruti Suzuki cars become costlier after latest price revision? Stock up 22% in one month Upstox",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS2xFSXF6cjBZN0JpRmtmR1NmVXpkdGh3dzdMdEZLUC1vRVctclJLbFZXSU1uSFZXc2dCQzNtWXlDbENyZTF1ZEVrd3JhRDRxdUd2ajR5VU9nUjhLOU80VEZkV1JDZks4ZlRxLTdmSVhKX1RpR1FwOU9qYmFaRm9XeWVmSnBjTkxSUjJDZ3pwbnVMWWdmNUtpUEt4REQ1ZmVtZDY5WG1pU2tqeDR2Z2FneUJmdXowb1ZSYzBYNXNwbXRMUlB6TlIxc3FjSjJILVRjLVpveWdCeTRVUF9IRlczU05YdVI5UQ?oc=5",
+      "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks - Yahoo Finance",
+      "summary": "Goldman Traders See Entry Point in US Stocks But Warn of Risks Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHV3bFNSZmFVVVpJdUhyUUx4UzVhdTVZNVVWUUE1RlBsWDBWMlFGcGlmSzljOHB1SHNkcTUtaG9oZFVkSS1UejEwQk5VdUJzVkpLdlpLcmVvbVhRaHFWbkVOUVhNMmljUmN1NU84cUZvcGZjbHRCT1NoMDFKYzNOZTUwbHBlV2ZHNzRSeGpOUjFQOFBKbXhsbkt0Rkw?oc=5",
       "source": "Google News · Stock Markets",
       "date": "2026-11-22",
       "category": "Stocks",
@@ -2664,28 +2895,6 @@
       "kind": "news"
     },
     {
-      "title": "Highlights and challenges from covering an historic month in South America",
-      "summary": "NPR's South America Correspondent discusses her work covering an historic election upset and a papal visit.",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-      "source": "NPR News",
-      "date": "2026-11-21",
-      "category": "World",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Bayer reaches Roundup settlement that could cost the company billions",
-      "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-      "source": "NPR News",
-      "date": "2026-11-21",
-      "category": "Business",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "As Florida uses robot rabbits to catch pythons; study reveals when snakes climb trees",
       "summary": "In 2025, Florida implemented solar-powered robotic rabbit decoys designed to attract Burmese pythons for removal efforts. Researchers tracked 346 pythons from 2017 to 2024 to study their climbing behavior. The study found that juvenile pythons are more likely to climb trees compared to adults. A recent competition in 2026 resulted in 280 pythons being removed by participants. Since 2017, over 19,000 pythons have been captured in Florida through organized efforts.",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-florida-uses-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-study-reveals-when-and-how-these-python-use-trees/articleshow/136048606.cms",
@@ -2744,28 +2953,6 @@
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
       "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch",
-      "date": "2026-11-21",
-      "category": "Technology",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Alaska, your next governor is a Wikipedia nerd",
-      "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
-      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-      "source": "TechCrunch",
-      "date": "2026-11-21",
-      "category": "Technology",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
       "source": "TechCrunch",
       "date": "2026-11-21",
       "category": "Technology",
@@ -2851,17 +3038,6 @@
       "kind": "news"
     },
     {
-      "title": "Russian ship hit by drones in Baltic still smoulders as Finland, Estonia help put out blaze - CNN",
-      "summary": "Russian ship hit by drones in Baltic still smoulders as Finland, Estonia help put out blaze CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03c0w4dmN2aEdLWTBCeTR6eEFtZ1BkSi1SQlV5NS1WVExuUnZJTjFxZDlCRU13U1dmc1lkdjNwM3pVUjJjTktDOU81Qy0yaEVHS2JlVFlnUVRVRWlQbnM1WEQtX0pqYWI0VmJaV2UySkxaTFZuS09XV094R1huQQ?oc=5",
-      "source": "Google News · Russia & Ukraine",
-      "date": "2026-11-21",
-      "category": "Russia & Ukraine",
-      "subcategory": "Russia & Ukraine",
-      "region": "Europe",
-      "kind": "news"
-    },
-    {
       "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones - Al Jazeera",
       "summary": "Crew evacuated amid battle to put out fire on Russian ship hit by drones Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2U3ZVVxRFhhdW1QdlBWLXJwRUpVYjlfb2YzMGFBR0RCTUdWM3VsRUtyZVItZFdCQ1lhbjFZa0tjLTl5MVZma2FrQkRfT0doQ212M3ZZbXM2ZDVwX2gtZF94N3UwN3gxX2gySUFCZGYxWk5ONmJacE02LVdaOXVGazlwYTZteUJ2SVRTN0NrTUxHM295VFlCRGtYeFhHX2pXaXVrN3M2MUFFZUp2WW9MWkRR0gG3AUFVX3lxTE0yZHFzYlU2ZzZ1b1VSc1htTi00Tjc3WmtxWXhwYjJRbERDMXhmdzQ0dFpQcmU4TkQyRnI2NHhrdFJIenpWR095MUFsZmhhX0gtbUgzSlBieEpmUVBqRDIyZW9YNmRab3RmbUlyOHI1aThMZWFFTXhIRTdmZWZzT0d5Wm1BU05XNFc2QVlXZHBaejhxVTVFdk9RRmI1QXctZTVCeFljXzluVUpTUmpqN1FZLWpvSUNDTQ?oc=5",
@@ -2873,8 +3049,8 @@
       "kind": "news"
     },
     {
-      "title": "Ukraine war latest: Strike on Russian cargo ship in Gulf of Finland 'likely carried out by Kyiv' - Sky News",
-      "summary": "Ukraine war latest: Strike on Russian cargo ship in Gulf of Finland 'likely carried out by Kyiv' Sky News",
+      "title": "Ukraine war latest: Explosion on Russian warship after 'drone attack' - as people missing following building collapse in Ukraine - Sky News",
+      "summary": "Ukraine war latest: Explosion on Russian warship after 'drone attack' - as people missing following building collapse in Ukraine Sky News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0xwbWtnVmZDazUzYkFfTnlRYUJnU0IwX0pEOFVwcVFpeG9IRGI4YlR1bFp6Y25jM2tIS3VMWFZSNTVON0dxdmlzVVRrakJGU0FRUTlGWGxxZVBxOWktOTIyN3F3QkkwREhMUFJrNkNQWGVERWcydm1laFowMzJQVXRIc0VMN2xuMEUxOWhVQXA0LXVLRmJmNnVsMXdjcTBwYmk2WG5Ia1JXZ3JrUXN2TUlR?oc=5",
       "source": "Google News · Russia & Ukraine",
       "date": "2026-11-21",
@@ -2884,31 +3060,31 @@
       "kind": "news"
     },
     {
-      "title": "India survive late South Korea fightback to seal second consecutive Asian Champions Trophy win - The Times of India",
-      "summary": "India survive late South Korea fightback to seal second consecutive Asian Champions Trophy win The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUVZpWHoyRjd0cTc1WThzME9STzhodko4dmI4SjZ6RWtWXzZsN0R0SER3RmRqaTVFbWJlaElFejJydGlpT3pTVmtmYTlJUU1LbzFkd1JKbUtfVkxtVGZwNHczT0QyZnhVMHNmQldib0hKbTVEQ3RwU2ptRlNKdkZxM18yQ1phSVkyUnoxdzI2STVETkYxclR5cjRYWGRJSlNzUW4zUTdYMUhyOENKUHMtMTlYaTVMUFlTR2JHOHo2ODFPMkNucGNMaDV3NkVaZEdtbnNHSWdBcHJQcmVwbzFpX0UzT1dLdy1zblVTNzlVeTV3R1dGcXpwQU5mQ0twb2NuX3h3a3BrNnJHZEZ1TkJv0gGUAkFVX3lxTE0yUzJpN0VwZzJXYmw0SVBVckVuR3JFT3BPbFRNVVhvZXFxeFA2clJFa3kwSk9jcHh2YXlmWlpqRjFiTG1YTVVSb19pNnBmeHVyMk5CVjB5bHI1WUpXWXNxNElXYUJQeWpnYVpscGR5MzFEWlZzckJvdHprTHA0ZXE3YjJCWW1jS2VlTEFDQk05N1N2NnBpQlMxY3psNHJ6aTFrenNza1hYZ0Q4Z1dEZURJZHVGUExVanIxbndNdkFuSjRFTjIxWkZWSFBPWnRxNU56UDMyNGh2OUZNTElQOVVVVy0zMFRsczA1M2dvYTB4bFE1bk5idnI4eGpta0F4WjJHZ0FHTWRPQS1zZ2huR0IwWjBkdQ?oc=5",
-      "source": "Google News · South Korea",
+      "title": "Ukraine war latest: Russian warship seen underwater as images show vessel before and after 'drone attack' - Sky News",
+      "summary": "Ukraine war latest: Russian warship seen underwater as images show vessel before and after 'drone attack' Sky News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEttTnJ6SlczVFRaTWhfQXdPWjFYV2k1ZnJ1SHYyU1BwU3V3UUVMa0luRWFKblRoWlhlZVpiaWZSMmFQbHZDNkRwREhNanM4WExJbzRvU0dmd3BGOGJQeDF0THBGZWZaNUF6U0ZXeDRkeEp3cHE4MzZjc1ZlcHB1VTNBUzVOOGJ0eHJHUGFJcDdIX2pwTVRSZWR3Y0h4VURsN2twczlJOTlJSFRZSGFTbWtYQnBWUGl0X0dBSg?oc=5",
+      "source": "Google News · Russia & Ukraine",
       "date": "2026-11-21",
-      "category": "South Korea",
-      "subcategory": "South Korea",
-      "region": "Asia",
+      "category": "Russia & Ukraine",
+      "subcategory": "Russia & Ukraine",
+      "region": "Europe",
+      "kind": "news"
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, November 20, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, November 20, 2026 Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlM4aDBCQjFpWWp6NFp3aU1wUVI2LXJLeFlFSmo3c2RiZ1hhbDgxOFJaWWtHc1JiYzBXd29mVXlsbzl3ZHF2a3RzQlZ1SFAtWVFWWXdITXpJMXU0a1RfZFVfQ1E5aHRGYjJtMFo3Y2p0dlpFZU1qbFd3S0dNYVVZZVM3cm1Lc3hkcDd0MGJBQkVRaHE4V21VVlc1cjdVaDZkTGlCQXFrdTByQXVj?oc=5",
+      "source": "Google News · Russia & Ukraine",
+      "date": "2026-11-21",
+      "category": "Russia & Ukraine",
+      "subcategory": "Russia & Ukraine",
+      "region": "Europe",
       "kind": "news"
     },
     {
       "title": "Latest Hockey News and Updates - Hockey India",
       "summary": "Latest Hockey News and Updates Hockey India",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWHZCY3pCXzcxblN2MU1qdzduZXdRdTN0RVhIaG44VmFsbHJkV3l0SU5BblhKYTJFN2gxWVl5WGlrSVBHemFVZGlyRG12SGFfUlNjY3A5Ty1LNWlTSHBlaEZsdXlHYzFxSm43cEZ0U2xxVDVLOXJBYXRIbzl4TlVvWlpCUUhWT01xeXdyWGVlTjM1MUxheDlmTUtwakdzOEF4aUtSdlJzMnYtV0s3YWpjSXRITzdOaWFMVk1xN2Q1NURaY29DLXBmdm9kWllxMXVORGsxNHQzdWtRNkJiY3FSMzVsTnBTVTlOZnhpWjlWU3g?oc=5",
-      "source": "Google News · South Korea",
-      "date": "2026-11-21",
-      "category": "South Korea",
-      "subcategory": "South Korea",
-      "region": "Asia",
-      "kind": "news"
-    },
-    {
-      "title": "Women's Asian Champions Trophy 2026: India beat South Korea 2-1 for second straight win - Olympics",
-      "summary": "Women's Asian Champions Trophy 2026: India beat South Korea 2-1 for second straight win Olympics",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdBSjQ2ZVVROENGNzJkazRfRDBQcU9XeTBkOVY2M1lVZFczRmVLNU90Q0J6dGl5VDFGUXQ2a0hWUEVnb2haZVVvVFU1S3MwekJnVVlaeFRPeXVCU0pqQmRwWmhRaGxFZmR2eGJMWEM5ZmV3MHdjekF0ZEE4VXVDU1lXQm5abkY2dE1aYmk4ZVJlRS1lTFluZ0Rrd21BWF8xdk44?oc=5",
       "source": "Google News · South Korea",
       "date": "2026-11-21",
       "category": "South Korea",
@@ -2931,28 +3107,6 @@
       "title": "‘Cancer Does Change You’: Kate Middleton Shares Her Healing Journey in ‘Deeply Personal’ Documentary",
       "summary": "Kate Middleton, the Princess of Wales, has shared the trailer for an emotional new documentary, ‘Heal,’ in which she charts her cancer journey.",
       "url": "https://www.vogue.com/article/kate-middleton-shares-her-healing-journey-in-deeply-personal-documentary-heal-2026-11-21",
-      "source": "Vogue",
-      "date": "2026-11-21",
-      "category": "Fashion",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Can a Pre-Nup Be Romantic?",
-      "summary": "Prenups can help ease wedding-planning tension and build long-term trust—here, relationship experts break down how to navigate the money talk with transparency and care.",
-      "url": "https://www.vogue.com/article/can-a-pre-nup-be-romantic",
-      "source": "Vogue",
-      "date": "2026-11-21",
-      "category": "Fashion",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Sienna Spiro Had Herself a Merry Little Christmas at the Bloomingdale’s x Ralph Lauren Window Unveiling",
-      "summary": "On Friday evening, as crowds swarmed Lexington Avenue and 59th Street to catch a glimpse of the breakthrough singer, Spiro was on hand to unveil the Bloomingdale’s holiday windows, created this season in collaboration with Ralph Lauren.",
-      "url": "https://www.vogue.com/slideshow/sienna-spiro-bloomingdales-ralph-lauren-window-unveiling",
       "source": "Vogue",
       "date": "2026-11-21",
       "category": "Fashion",
@@ -3033,17 +3187,6 @@
       "source": "Fratello Watches",
       "date": "2026-11-21",
       "category": "Watches",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
-      "summary": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator, Edmund McMillen.",
-      "url": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
-      "source": "IGN",
-      "date": "2026-11-21",
-      "category": "Gaming",
       "subcategory": "",
       "region": "Global",
       "kind": "news"
@@ -3137,17 +3280,6 @@
       "kind": "news"
     },
     {
-      "title": "The AI boom had a really bad week — and it's raising loud alarms - NPR",
-      "summary": "The AI boom had a really bad week — and it's raising loud alarms NPR",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5",
-      "source": "Google News · Stock Markets",
-      "date": "2026-11-21",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "Crude oil falls over 3% over the week, aluminium sinks 6%, silver tumbles 16%; key factors to know - Upstox",
       "summary": "Crude oil falls over 3% over the week, aluminium sinks 6%, silver tumbles 16%; key factors to know Upstox",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSE5fZTVwOUNMQjdjNDZoY29WZE9IRjFnbjJVU1lQdElOUExLdmVJTElFSGNYNVBJanpLeFB0d01TeU52WmE1c1RhZDlldktDWW1Mbk85ckdtdDhTaWl2QkVNNllYZWs3OHBxaUFDa1RlZW4wRS10TkluRndjUjc3OWhJUGhXZ29IUnhMNFZKTVRFbEtIMHBPaUNUSEU0dGh1b2F5MnFMeGdxdEtpMDM4Mi10Zy1qXzFra1ZHSEY2MkZZVzhxaUJVMjNxV2JTWWZmLUJvY3pXMmNmaTZJc1Z2eEJsQk1kTVQyeFE?oc=5",
@@ -3156,6 +3288,17 @@
       "category": "Commodities",
       "subcategory": "",
       "region": "Global",
+      "kind": "news"
+    },
+    {
+      "title": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap - Bloomberg.com",
+      "summary": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
+      "source": "Google News · US Markets",
+      "date": "2026-11-21",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "United States",
       "kind": "news"
     },
     {
@@ -3195,17 +3338,6 @@
       "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
       "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
       "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Asia",
-      "date": "2026-11-20",
-      "category": "Asia",
-      "subcategory": "",
-      "region": "Asia",
-      "kind": "news"
-    },
-    {
-      "title": "South Korea catches 111 students with new measures against exam cheating",
-      "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Asia",
       "date": "2026-11-20",
       "category": "Asia",
@@ -3456,17 +3588,6 @@
       "kind": "news"
     },
     {
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "date": "2026-11-20",
-      "category": "Business",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
       "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
       "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
@@ -3621,28 +3742,6 @@
       "kind": "news"
     },
     {
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "source": "TechCrunch",
-      "date": "2026-11-20",
-      "category": "Technology",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "date": "2026-11-20",
-      "category": "Technology",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "summary": "",
       "url": "https://huggingface.co/blog/inkling2mini",
@@ -3665,14 +3764,25 @@
       "kind": "research"
     },
     {
-      "title": "From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over - NBC News",
-      "summary": "From ship strikes to assassination plots, the war in Ukraine is increasingly spilling over NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TcUZmN3R2SnNIRXJncmpsbmtnUnp0VW4zZGp2bVNFMmVsTmhRWHFrQW53S1FKVUlwMEJ1ekt4Y0s3czhudjYzNnVHMHNhNFNRQWVaZnJwZFFEM1lKcUE?oc=5",
-      "source": "Google News · Russia & Ukraine",
+      "title": "South Korea’s Coal Use Is Surging – and Not Just Because of the Iran War - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "summary": "South Korea’s Coal Use Is Surging – and Not Just Because of the Iran War The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVpFcVBQLWloS3MxM0xDQ3luQzY0aXJPSU5NYVF2bVBQQUk2c3NjWVRiSVlNR2FpTGRXYTZ2bmpxbENOdGVDUk9oUlpJNl9Xd05RWlcwZTI1WnAzeFE1R2pmZ2pfR3g5ZjZRYTl5dFdlbHZrNEs2MXJqd3RkSktBTmswMGczdkRvVERsdGNTTUphZVRvUUNnNWRCREpiSXJ6eGlWNw?oc=5",
+      "source": "Google News · South Korea",
       "date": "2026-11-20",
-      "category": "Russia & Ukraine",
-      "subcategory": "Russia & Ukraine",
-      "region": "Europe",
+      "category": "South Korea",
+      "subcategory": "South Korea",
+      "region": "Asia",
+      "kind": "news"
+    },
+    {
+      "title": "South Korea: 111 students caught with new measures against cheating at Suneung exam - BBC",
+      "summary": "South Korea: 111 students caught with new measures against cheating at Suneung exam BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSYVZxU3d1Y282bUZZY05pMElTZHRIek9xVWRIVzgtU0xpUTlUdnBmeUYzdkIyYlJ3cm5RaUlFRmprWE42QXhrNlJNWUFOMkR1M1YzbnZjNktrVG8?oc=5",
+      "source": "Google News · South Korea",
+      "date": "2026-11-20",
+      "category": "South Korea",
+      "subcategory": "South Korea",
+      "region": "Asia",
       "kind": "news"
     },
     {
@@ -3734,17 +3844,6 @@
       "title": "New Arrivals From HBX: adidas Originals",
       "summary": "Brand Information: adidas Originals is the heritage line of the German activewear brand adidas. The line specializes in lifestyle sneakers and streetwear apparel that seamlessly fuses fashion with function. This classic-meets-modern approach has already produced iconic models such as the NMD_R1, Stan Smith, Forum Low, Ultraboost, and Superstar, alongside a slew of successful collaborations with cultural icons and influential brands like Pharrell Williams, Alexander Wang, Palace, Kendall Jenner and more. Staying true to its athletic roots, the label has also formed brand sponsorships with world-class athletes such as Lionel Messi, David Beckha",
       "url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-adidas-originals-8",
-      "source": "Hypebeast Fashion",
-      "date": "2026-11-20",
-      "category": "Fashion",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Licensed to Dress: Will Jonathan Anderson's Dior Re-Tailor James Bond?",
-      "summary": "When Amazon MGM officially tapped Robert Pattinson as the next James Bond, it didn't just shake up British cinema—it ignited a massive high-fashion turf war. While the battle for 007's wrist dominates watch forums, the battle for his wardrobe is equally fiercely contested.Since Quantum of Solace in 2008, Tom Ford has served as the official tailor to MI6, outfitting Daniel Craig in razor-sharp, ultra-fitted suits that defined the era. However, Pattinson enters the franchise with a massive LVMH trump card: he has been a marquee global ambassador for Dior since 2013. Now, with the visionary Jonathan Anderson at the helm as Creative Director in t",
-      "url": "https://hypebeast.com/2026/11/licensed-to-dress-will-jonathan-andersons-dior-re-tailor-james-bond-robert-pattinson-feature",
       "source": "Hypebeast Fashion",
       "date": "2026-11-20",
       "category": "Fashion",
@@ -4149,28 +4248,6 @@
       "kind": "news"
     },
     {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading - The Guardian",
-      "summary": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOam9yUlhjeXdQYldnSlpuMlRsWjJsLXFYUGxaM3ZVc21qbTEyUG9Ja2x1aVpZRDU4amVMaTFsZVh0dWlYLXRWV1BJbGtoTkdfUjFkVlhvTnduWGFIY1VKcGNTRWRjTTNlQ1c5Z0FrazRudjFKOFVMYXVhMGNjYmVrMEpFSnpJa09jTHNDX0xrdG95NHl3ckRDc0RLZW9SQXNnSWdF?oc=5",
-      "source": "Google News · Stock Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections - NBC News",
-      "summary": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5",
-      "source": "Google News · Stock Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
       "title": "Oil prices rise on Houthi attacks on Riyadh, supply disruption concerns - Business Standard",
       "summary": "Oil prices rise on Houthi attacks on Riyadh, supply disruption concerns Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQWpRY2FESlJERklURGp3X3hZN0hGQkp6RVZJeXpYbXpqSGhzOE1aRGlZVHdjVWJiQjZNVXZSME5WV1BHWE4wd3RXM3gxOUtYeTZqOWJpMHhFNzJRQUNmUDlpUnBnRUw1MW9jSlRBS2dYb20yczF0emg4V2liRW1IUlFhYjY4N3E3TWhSaDNQSjhXcW1nMmhZcE10RUl4TmlqU09GWG1lcjhwcExTUklIMDZWc042blQ1eWV5QjUtbFlJYV9HS0pObEdfTVRiRzJubTFWNGktWExibWN00gHiAUFVX3lxTE56WlAtTXhNZklLQWFCdEZvS1ItcUNjQzE0VnNJRUpnMUFtVklHT1FPWXd6eEV4cjhLWnhMWVByWjBGNFVzUUt2YVBaQnR0NGdEUkp1b0VKNkg5RTJDZEhMRHkwMVRUSW5PWER2VGl3Q0J3WUwwTjYxSHlwS0JRaU5MdUtZYmx5VERVYy1ib1BkVkJTa2FUZUotdGVyMkp3QVhhSU9sb3hETnAzUkxpblB6UFhZbWlWVnFRRE5JUVRCLUdEcHc1UjFDYmJsNEJXc0JlNHhlTE1aMUVTVWVlLTNfRHc?oc=5",
@@ -4215,6 +4292,17 @@
       "kind": "news"
     },
     {
+      "title": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections - NBC News",
+      "summary": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5",
+      "source": "Google News · US Markets",
+      "date": "2026-11-20",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "United States",
+      "kind": "news"
+    },
+    {
       "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens - AP News",
       "summary": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens AP News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
@@ -4237,9 +4325,9 @@
       "kind": "news"
     },
     {
-      "title": "6 reasons stocks are falling, and what you should do about it - CBS News",
-      "summary": "6 reasons stocks are falling, and what you should do about it CBS News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQ0QxcUZmN2EzM2oyLTlDX2lUeUVoazlHb2dDa3FlRlJueDJhMm5UV0pENHhuTXlBY29PU3d0RGFGcTVIaDB0TTI2eTk5Nkd4dDB4d0JDUDhNWXQzREtMcmloaHpURDlVdWZsM0FB?oc=5",
+      "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Yahoo Finance",
+      "summary": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3dOZlc3N2c4UXkySVk4bUFjN3RFdy1ldjRKcXdJSlJYelZmU1RRN0NsNWVlQ0thZmxQOWhnMEg4c2RUcFJKTGYtU0JsMlRYN0k4QWRqakVPazBPSkJDWmxLNjIxSlJmSWdOMXhmUnhhZlpFQkNJendNb0VkRjJlTE5JRi1NSDZQV3FaRENSTXhkNXJqNWJRMkFJUQ?oc=5",
       "source": "Google News · US Markets",
       "date": "2026-11-20",
       "category": "Stocks",
@@ -4248,86 +4336,53 @@
       "kind": "news"
     },
     {
+      "title": "Stock Market Today Highlights: BSE Sensex closes above 83,900, Nifty50 tops 25,800 - The Times of India",
+      "summary": "Stock Market Today Highlights: BSE Sensex closes above 83,900, Nifty50 tops 25,800 The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPamhPcXNTTk00M2VXUjVwSXhMZjlrTE5Edk5PV2p3cEZzSlRvNlprTDdrV3BrcUIyS2NUMm1YdkFNX2FNM3lPcWdpMkdKQnA2WXZiMGl5UzhGQWd2SmJrY29qWHBNZ294Z2haZjlnWUNPeUNsTEctUUhUaTlSXzNLRktjM3ItTzZMNWo2X3VVRGdkZGtqY0JGWmlnckM0QWpOZzdKRHZsMTBnU2Zjb2ZWSHpIa2ZsX25ySk95bVVkLVdYU004RTBjWHBMVjJBOUlmN3BFRlNHdzA4aW4xZXZKNS1yeG1iZ2YyTTZjMHhEZWQ3bXJaTmE5N2xRZ0JGZ1poWmZnaG1KSjBVUFM3aDIxMGFPNFI4bGI5Z3htV0dpMUlmNUlHTVVoLU1nb1pLc01aZE16bDlR0gG7AkFVX3lxTFAtcEx6R01tVzdsVDVlSmVscnMtUHljT1lJRFRfSHNXcmpkRWx2UW1nOG1kRzdmdUJnN2ZqeWJueUtEdnJYQzZfZnR3T1UycGNzbXEzd1dhLXg4M0lDRGR5eWNWZS1WSTJPMkE0a3pPeDZQYTNrTmNFTWZIUjZvTXhyUFpXY1FXRG9EWWYtWVJGeXpqS3dROWhVTUk4RWxxR3o3ald1a3ZDWUQyTllKa1k1N1NNNlV5ZGFJNFVqa3ZlQVc1cXBGbVhJb1AxMkZLLVc4X1pUMmdURzdxUHMwYXpUTHFYSTdza202U2pib0lXSGxZclNTM09fb3VJeGJKR3dvNjVEZ1dZdFluR0xFQkplVmZJSG55aHh1QjQxaTJZUmtOelQtbTl2Q05ZdTZjSHR0QmlwNDh2UWhMZw?oc=5",
+      "source": "Google News · Indian Markets",
+      "date": "2026-11-20",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, ₹ sees largest single day gain in a month - BusinessLine",
+      "summary": "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, ₹ sees largest single day gain in a month BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
+      "source": "Google News · Indian Markets",
+      "date": "2026-11-20",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "Stock Market Highlights: Nifty Bank extends gains above 1350 points; Axis Bank at 52-wk high - CNBC TV18",
+      "summary": "Stock Market Highlights: Nifty Bank extends gains above 1350 points; Axis Bank at 52-wk high CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQ3QxZ20ycTlTNWNIb2lnMXU3SnlGSllMbm9fMDd2ZWxmTXVNdE8zRFlGRHZuUlRNMkpRdXA4WUNzWFRGTWtzMm5YRHNWOW1iLVpFY0Z0LWJxeXJsU0pRSFowUTAwNm5ZUFk3VXI3VklIRlhNbWFRaEs2c29HdUFLNmp0dVowN3M0eGM1MEdZVWVObVpoWVJrY0J6M3UtVEo4UjhndDBNT2FCNnhJdWMtN3VGWHk4VWpUdmVsME45MGw5WVJfaFRsYjIyeHMyNGJTSy1YSmhUeUNVaTFJZ2VKSGpHV1p3RFhNMlRjdzZtSEVFa28wdm5FZ2Q1Q2IzYUNuTG0zSNIBigJBVV95cUxQRndSWlBnbTZLcWJGNlJua1lzTlYwa1BHbTJTQnc1cEtTSGpJWnNuTHlKRmhKSE1MRzIxNUNRNW9MUXhhSDJkQTl3UEpTWUFZLTRBQ08wUWhjVUFaN1hDc2JITnZyRi1hWVZoVFdCMnNvODRXcjFTRlhWeFVyczJnZjM2Ykg4WVlNOHpDc3lIVk1iQ2lsQl8wcEVQX0ZTanE3dEZiN2RnUUZaMlpsdjk1SWdZSEJmb09MbFJUNnFTVEFWMWNBRW9KWWlyNmo3TDhfaVVMdlIzckFPZEFmZWtWS05ud0E4dmxJeDU1UW8tUVdZMGJqV3lzNEdJdDRULUpPMTk0d2F3ZFR0Zw?oc=5",
+      "source": "Google News · Indian Markets",
+      "date": "2026-11-20",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
+      "title": "Why is the Stock Market Up Today? Sensex Soars Close to 700 Pts, Nifty Surpasses 25,700: Reasons for Market Rally - Kotak Neo",
+      "summary": "Why is the Stock Market Up Today? Sensex Soars Close to 700 Pts, Nifty Surpasses 25,700: Reasons for Market Rally Kotak Neo",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "source": "Google News · Indian Markets",
+      "date": "2026-11-20",
+      "category": "Stocks",
+      "subcategory": "",
+      "region": "India",
+      "kind": "news"
+    },
+    {
       "title": "Sensex, Nifty Open Lower as Global AI Selloff Weighs - HDFC Sky",
       "summary": "Sensex, Nifty Open Lower as Global AI Selloff Weighs HDFC Sky",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDdBZ0xXNTh2YlBRTTByMlFsbm5mMmpRbE1BYmVvN0VfMHdVVWtpY0ZpdzVRV01UaUJBR2lPQ3c3WWloaWJqZi0xQ0puTG9IUkxydzd5WW5QTnBWeDhUaC1HUm82TGNGYW9IM25JZ2xLRWRGQzZGSEphcmtOTXduNFNvSlNuSFZlMnNqRlQ0al9zYWpmeWg3MUtwQ2dWb21GNW1Pc3lBVmNwSXVnbFFUdU9hYkpfTVdkdUE4cHFDQ1ItZw?oc=5",
-      "source": "Google News · Indian Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
-      "summary": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 ChiniMandi",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
-      "source": "Google News · Indian Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Sensex, Nifty inching towards all-time high: India decouples from global rout, only major market in the... - Moneycontrol.com",
-      "summary": "Sensex, Nifty inching towards all-time high: India decouples from global rout, only major market in the... Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRGtSWW03RnNLcWJHZzU0STV4WVhtdXpFVXFQRlVPUkNXQ1FPY01yODk5dy1GNkY1N3pRemtoYnhFLVphVFpzeDQ1dHBGbnVDNVJvalpQN2FUakJlamtMQnJDTzhRN0JXUXpHSEVaVTNCYVh5bW9IaVRIM2w4Qjl4VlZwQ2tOMjRUUENRQ2RIRnZDeDVlTGVadEM5RTNRVlNaeEl6SndCV1EyVDhsd3dVUWI3V0RrRVBFT05KcUtVU0NzMzl4VjVQVU1HOTVNOTNTUU54OG1nel9CRHU3a1E3czZMMWtQM3lvX2wxY0hkTWs3N09KQ0xxeEZTNXl5cmhv0gGGAkFVX3lxTFBPWDBzQXNpdFNaMzZkNTZGb01SVXBOM3JGMHBETXZSZ2pKOUphUVFmaGxsQl9GalRPaHlmcEE2b1ZTSTk0OWVkX1VYRFRRZ0YwbDlNLXFrUk5WS2ZJNE53ZEJ0Z2t3aXo1Unp1LTRmaFhfeWJGTkJvZ2pMa3RHMzNhVzNTSFdtSjQwN21DVUNHckdoSzNoRGFfUV9oWDNJLTZ0cU5XMFdHSVNoVGZmSTNjRUZNZ2F6VEVPNm9VU3BQQzlPd2k3UnZhbXE5YWpES1l5bEFGNk1Fa0ZtcHFJWUVLTEU3Y1g3ZXlQdFpYSVEzWi1NRWs3RlkwV3BRb2FZUTNUTUJWTGc?oc=5",
-      "source": "Google News · Indian Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Sensex surges 898 points, Nifty reclaims 25,800 as bank stocks, foreign inflows lift markets - The New Indian Express",
-      "summary": "Sensex surges 898 points, Nifty reclaims 25,800 as bank stocks, foreign inflows lift markets The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEhpb0pqS1hrREZBWVRCRkVDQkJLU2JxdENURGpCN28wWGhWMExuczdEXzk4T3U3T2xSS0tNQjVnMjgybmZyd1ZjVjZrSXQ5NWhaQU4yalEyZWRXTHNiV3UzZHQxdXV0UHFtVWIxdnAyWGVtYmtHMUhLUmotaXdQdVgzS0F0Nk90YVNkQktvWWVRNjV0Z3ljMklJRHgzRnJ6cGJKbjdjQ1dJX0xRcDdaMjJfaGprRXpVN28xR2p3TEJCa2ZjUy1GY1JkUjJSenctSWs5VHdvNzRDeG_SAegBQVVfeXFMTTJhUXBzWkVUQkY0V2x4YmtRYVd1MzZEc0kyZXdZT1g5Z2VMWlp3VUJYb3hiUk1WZTJoQnN6YkJaR0x3SkdYQmZSMEJScTNJaVpyOFA5UjRRQ0lPdHJGdFdfSnZpNGlTRk91VWlMeklYRTFjYlZ0bUlsc0VIRHlMbWE5a0RuMG9PNlRQTzhMQVNCejFCVlFIWW9zcGQ3bWF0SFY0a2JfS05pS01TYV9qRTAyUkhmRTZDTWxockxjeGJJSWJVcWtWdWZaSnRmbXQtRFRlbFFsUi1KY0UwSXA0VDg3UTRSV1BzZQ?oc=5",
-      "source": "Google News · Indian Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Market Prediction - Equitypandit",
-      "summary": "Market Prediction Equitypandit",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03c1Z0UDVNeUZaXzRvcVZJZlE3ekxfYmY4a0RYVjAxTC1VUE9yM3h0V2swNjgtWXNPWEw5eElRbzNNbzhzaWZwNkhzS2JEZWUxLWc?oc=5",
-      "source": "Google News · Indian Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade - Kotak Neo",
-      "summary": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade Kotak Neo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
-      "source": "Google News · Indian Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Sensex Surges 898 Points; Nifty Reclaims 25,800 Mark - HDFC Sky",
-      "summary": "Sensex Surges 898 Points; Nifty Reclaims 25,800 Mark HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNi1uQzd2YVRnMFE3c0Z6UFgyWHpseVBLdlpYTUNRZG1qelhQN0xia0d3dU00RU9fSUktUzd3R1lJeWQ4SFhGMUtSRHRmTzN6SE1NN2xiSHc2SUw4QTB4SDVralpyZFBKUnZsMm9hd1MyUXJQbUZfZFhCZF9YV2JuaXJSbDlVR2hBTHF2NkVNZzlwXzBYeWpfUHlOZzluelVEYlVVVlFISDFxR3ZjMklNZGtfc0hFZTdJd1IwYXJmcWJkNFhYZHVwMG9nSld2QXF5VkZMSGxfR00?oc=5",
-      "source": "Google News · Indian Markets",
-      "date": "2026-11-20",
-      "category": "Stocks",
-      "subcategory": "",
-      "region": "India",
-      "kind": "news"
-    },
-    {
-      "title": "Stock Market Holiday November 24: Will NSE and BSE Remain Closed on Tuesday for Guru Nanak Jayanti? - Kotak Neo",
-      "summary": "Stock Market Holiday November 24: Will NSE and BSE Remain Closed on Tuesday for Guru Nanak Jayanti? Kotak Neo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbU9hNmx0T1AyRGxWX2ZZUnRLTG0tZzlkNW1kN3l5aGtLS0NaYUdxN0RLMTB5RFdKazMyX1F1bkFjUllNTzlZVUMwcXpDT1U5M0VFWFV6OUs0cFBWU2pzVlcwb0wwRmRvbjlOMklkZmNqQmZGVGFnZUxrSkNKcC05LUowSkpTczBaZUY4dFVtaktLYUdGVzdOQ1VSbXR1VFcwTWM3Tmx2Tkl1bnZyTjFfMml1YXNjTW1rX1NBUVN0cW1qXzZRSlFidkRvei0xWUVBdGc?oc=5",
       "source": "Google News · Indian Markets",
       "date": "2026-11-20",
       "category": "Stocks",
@@ -4438,17 +4493,6 @@
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Technology",
-      "date": "2026-11-19",
-      "category": "Technology",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
       "date": "2026-11-19",
       "category": "Technology",
@@ -4573,50 +4617,6 @@
       "source": "The Guardian Science",
       "date": "2026-11-19",
       "category": "Science",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "The Guardian view on Grand Theft Auto VI: a game that makes players think twice | Editorial",
-      "summary": "For almost 30 years, Grand Theft Auto has revelled in America’s vices. Its latest instalment may find room for empathy amid the mayhem The biggest global cultural event of the year may not be something that millions of people watch together but somewhere that millions of people venture separately. In the video game Grand Theft Auto VI, players inhabit a fictionalised America through the eyes of two lovers turned cons in a rags-to-riches crime epic. On Thursday, when the game was released, workers called in sick and students skipped lectures to play at home. Such is GTA VI’s appeal that it is forecast to rake in billions of dollars within mont",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/19/the-guardian-view-on-grand-theft-auto-vi-a-game-that-makes-players-think-twice",
-      "source": "The Guardian Games",
-      "date": "2026-11-19",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Bank your stolen cash, bring a change of clothes, go easy on the bloodshed: 15 tips for playing Grand Theft Auto VI",
-      "summary": "There’s a vast amount to absorb in Leonida, but these pointers will rev up your criminal engines and allow you to better enjoy the ride Tell us: are you playing Grand Theft Auto VI? Leonida is so huge as to be overwhelming and in the opening hours, the game bombards you with tonnes of info that you will inevitably forget. But I’ve done nothing but play this game for weeks and I’m here to help. Here’s what I wished I’d known at the start Walk faster. I found that Jason and Lucia walk incredibly slowly. If you go into the options menu, you can select “fast walk” as the default walking speed, which sped them up just a little without ruining the ",
-      "url": "https://www.theguardian.com/games/2026/nov/19/tips-for-playing-grand-theft-auto-vi",
-      "source": "The Guardian Games",
-      "date": "2026-11-19",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Parents: please don’t buy Grand Theft Auto VI for your child",
-      "summary": "Rockstar Games’ brilliant 18-rated criminal caper is stuffed with sex, drugs and violence. It is the most explicit game I’ve ever played – and it really is not for kids Tell us: are you playing Grand Theft Auto VI? I am haunted still by an interaction I had at my stepson’s ninth birthday party in 2014, where one of the kids asked if I could put on Grand Theft Auto V for them all. “I have it at home!”, he said, giving me the puppy-dog eyes. Mentally replaying that game in my head, flashing back to the many scenes involving such things as smoking meth, over-the-top gratuitous violence and grubby sex in one character’s trailer, I said “ no way” ",
-      "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-parents-please-dont-buy-gta-6-vi-for-your-child",
-      "source": "The Guardian Games",
-      "date": "2026-11-19",
-      "category": "Gaming",
-      "subcategory": "",
-      "region": "Global",
-      "kind": "news"
-    },
-    {
-      "title": "Grand Theft Auto would be a huge TV series – here’s why it will never happen",
-      "summary": "It is the biggest game of the decade, but there are a billion reasons why GTA shouldn’t be adapted for television. It joins a list of wildly popular titles that won’t see the light of day on streaming platforms You probably aren’t going to see a Grand Theft Auto TV show anytime soon. Speaking on a recent podcast, Strauss Zelnick, the CEO of the game’s parent company Take-Two Interactive, said that a film or television adaptation of GTA would only happen if its team thought that it would “somehow engage and delight our consumers. It’s a high bar to do that. And, of course, there’s always a risk of failure. So we don’t rule it out, but we’re ve",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/grand-theft-auto-would-be-a-huge-tv-series-heres-why-it-will-never-happen",
-      "source": "The Guardian Games",
-      "date": "2026-11-19",
-      "category": "Gaming",
       "subcategory": "",
       "region": "Global",
       "kind": "news"
